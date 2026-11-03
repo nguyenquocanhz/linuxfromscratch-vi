@@ -112,42 +112,33 @@ function build_toc(): string
         $a->setAttribute('href', rel_href('index.html', $a->getAttribute('href')));
         $a->removeAttribute('title');
     }
-    // Every top-level entry with children becomes a collapsible <details>.
-    $html = '';
-    foreach ($toc->children as $li) {
-        $sub = child_ul($li);
-        $link = $li->querySelector('a');
-        if (!$link) {
-            continue;
-        }
-        if ($sub) {
-            $html .= '<details><summary>' . $link->outerHTML . '</summary>' . nested_list($sub) . '</details>';
-        } else {
-            $html .= '<div class="toc-single">' . $link->outerHTML . '</div>';
-        }
-    }
-    return $html;
+    return '<ul class="toc-root">' . toc_items($toc) . '</ul>';
 }
 
-function child_ul(Dom\Element $el): ?Dom\Element
+function child_el(Dom\Element $el, array $names): ?Dom\Element
 {
     foreach ($el->children as $c) {
-        if (strtolower($c->localName) === 'ul') {
+        if (in_array(strtolower($c->localName), $names, true)) {
             return $c;
         }
     }
     return null;
 }
 
-function nested_list(Dom\Element $ul): string
+// Parts and chapters (a heading plus a list) become collapsible <details>; pages are links.
+function toc_items(Dom\Element $ul): string
 {
-    $out = '<ul>';
+    $out = '';
     foreach ($ul->children as $li) {
-        $a = $li->querySelector('a');
-        $sub = child_ul($li);
-        $out .= '<li>' . ($a ? $a->outerHTML : '') . ($sub ? nested_list($sub) : '') . '</li>';
+        $head = child_el($li, ['h3', 'h4', 'h5']);
+        $sub = child_el($li, ['ul']);
+        if ($head && $sub) {
+            $out .= '<li><details class="toc-' . e($li->getAttribute('class') ?? '') . '"><summary>' . e(norm($head->textContent)) . '</summary><ul>' . toc_items($sub) . '</ul></details></li>';
+        } elseif ($a = $li->querySelector('a')) {
+            $out .= '<li>' . $a->outerHTML . ($sub ? '<ul>' . toc_items($sub) . '</ul>' : '') . '</li>';
+        }
     }
-    return $out . '</ul>';
+    return $out;
 }
 
 $tocHtml = build_toc();
@@ -317,7 +308,7 @@ foreach ($pages as $rel) {
 }
 
 // static files from the book
-foreach (['images', 'scripts'] as $dir) {
+foreach (['images', 'scripts', 'stylesheets'] as $dir) {
     foreach (glob(BOOK . "/$dir/*") as $f) {
         @mkdir(OUT . '/' . VER . "/$dir", 0755, true);
         copy($f, OUT . '/' . VER . "/$dir/" . basename($f));

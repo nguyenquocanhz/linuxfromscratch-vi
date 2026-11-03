@@ -42,13 +42,16 @@ img{max-width:100%}
 .toc a{display:block;padding:4px 8px;border-radius:7px;color:var(--ink);text-decoration:none}
 .toc a:hover{background:var(--panel)}
 .toc a.current{background:var(--accent);color:var(--accent-ink)}
-.toc details>summary{list-style:none;cursor:pointer;font-weight:600}
+.toc details>summary{list-style:none;cursor:pointer}
 .toc details>summary::-webkit-details-marker{display:none}
-.toc details>summary a{display:inline-block;width:calc(100% - 18px)}
 .toc details>summary::before{content:"▸";display:inline-block;width:16px;color:var(--muted);transition:transform .15s}
 .toc details[open]>summary::before{transform:rotate(90deg)}
 .toc ul{list-style:none;margin:0 0 6px 8px;padding:0 0 0 8px;border-left:1px solid var(--line)}
-.toc-single a{font-weight:600}
+.toc .toc-root{margin:0;padding:0;border:0}
+.toc summary{padding:4px 6px;border-radius:7px}
+.toc summary:hover{background:var(--panel)}
+.toc .toc-part>summary{font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-top:8px}
+.toc .toc-chapter>summary,.toc .toc-preface>summary,.toc .toc-appendix>summary{font-weight:600}
 .content{flex:1;min-width:0;padding:28px 40px 64px;max-width:900px}
 body:not(.page-book) .content{max-width:1100px;margin:0 auto}
 
