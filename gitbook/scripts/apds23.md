@@ -1,0 +1,27 @@
+# D.23. /etc/sysconfig/udev-retry
+
+```text
+########################################################################
+# Begin /etc/sysconfig/udev_retry
+#
+# Description : udev_retry script configuration
+#
+# Authors     :
+#
+# Version     : 00.00
+#
+# Notes       : Each subsystem that may need to be re-triggered after mountfs
+#               runs should be listed in this file.  Probable subsystems to be
+#               listed here are rtc (due to /var/lib/hwclock/adjtime) and sound
+#               (due to both /var/lib/alsa/asound.state and /usr/sbin/alsactl).
+#               Entries are whitespace-separated.
+########################################################################
+
+rtc
+
+# End /etc/sysconfig/udev_retry
+```
+
+---
+
+[Bản gốc tiếng Anh](https://www.linuxfromscratch.org/lfs/view/12.4/scripts/apds23.html)

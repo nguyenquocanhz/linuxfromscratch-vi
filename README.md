@@ -33,3 +33,13 @@ Sửa file trong `i18n/vi/` hoặc thêm file vào `tricks/`, chạy `php bin/ch
 ## Giấy phép
 
 Sách LFS © 1999–2025 Gerard Beekmans, theo [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/); lệnh trong sách theo giấy phép MIT. Bản dịch và trick lỏ phát hành cùng giấy phép CC BY-NC-SA 2.0. Đây không phải dự án chính thức của LFS.
+
+## GitBook
+
+Thư mục `gitbook/` là bản Markdown của sách cho [GitBook Git Sync](https://docs.gitbook.com/getting-started/git-sync) (`.gitbook.yaml` ở gốc repo trỏ vào đó). Sinh lại sau khi build site:
+
+```bash
+php bin/build.php && php bin/gitbook.php
+```
+
+Đừng sửa tay file trong `gitbook/` — sửa bản dịch ở `i18n/vi/` rồi sinh lại.

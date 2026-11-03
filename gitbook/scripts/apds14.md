@@ -1,0 +1,62 @@
+# D.14. /etc/rc.d/init.d/sysctl
+
+```text
+#!/bin/sh
+########################################################################
+# Begin sysctl
+#
+# Description : File uses /etc/sysctl.conf to set kernel runtime
+#               parameters
+#
+# Authors     : Nathan Coulson (nathan@linuxfromscratch.org)
+#               Matthew Burgress (matthew@linuxfromscratch.org)
+#               DJ Lucas - dj@linuxfromscratch.org
+# Update      : Bruce Dubbs - bdubbs@linuxfromscratch.org
+#
+# Version     : LFS 7.0
+#
+########################################################################
+
+### BEGIN INIT INFO
+# Provides:            sysctl
+# Required-Start:      mountvirtfs
+# Should-Start:        console
+# Required-Stop:
+# Should-Stop:
+# Default-Start:       S
+# Default-Stop:
+# Short-Description:   Makes changes to the proc filesystem
+# Description:         Makes changes to the proc filesystem as defined in
+#                      /etc/sysctl.conf.  See 'man sysctl(8)'.
+# X-LFS-Provided-By:   LFS
+### END INIT INFO
+
+. /lib/lsb/init-functions
+
+case "${1}" in
+   start)
+      if [ -f "/etc/sysctl.conf" ]; then
+         log_info_msg "Setting kernel runtime parameters..."
+         sysctl -q -p
+         evaluate_retval
+      fi
+      ;;
+
+   status)
+      sysctl -a
+      ;;
+
+   *)
+      echo "Usage: ${0} {start|status}"
+      exit 1
+      ;;
+esac
+
+exit 0
+
+# End sysctl
+```
+
+---
+
+[Bản gốc tiếng Anh](https://www.linuxfromscratch.org/lfs/view/12.4/scripts/apds14.html)
