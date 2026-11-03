@@ -1,0 +1,20 @@
+{
+  "6.17. Binutils-2.45 - Pass 2": "6.17. Binutils-2.45 - Lượt 2",
+  "<a id=\"ch-tools-binutils-pass2\" name=\"ch-tools-binutils-pass2\"></a>6.17. Binutils-2.45 - Pass 2": "<a id=\"ch-tools-binutils-pass2\" name=\"ch-tools-binutils-pass2\"></a>6.17. Binutils-2.45 - Lượt 2",
+  "The Binutils package contains a linker, an assembler, and other tools for handling object files.": "Gói Binutils chứa trình liên kết (linker), trình hợp ngữ (assembler) và các công cụ khác để xử lý tệp đối tượng.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.4 SBU": "0.4 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "548 MB": "548 MB",
+  "6.17.1. Installation of Binutils": "6.17.1. Cài đặt Binutils",
+  "Binutils building system relies on an shipped libtool copy to link against internal static libraries, but the libiberty and zlib copies shipped in the package do not use libtool. This inconsistency may cause produced binaries mistakenly linked against libraries from the host distro. Work around this issue:": "Hệ thống dựng Binutils dựa vào một bản libtool đi kèm để liên kết với các thư viện tĩnh nội bộ, nhưng các bản libiberty và zlib đi kèm trong gói lại không dùng libtool. Sự không nhất quán này có thể khiến các tệp nhị phân tạo ra bị liên kết nhầm với thư viện của distro host. Hãy xử lý vấn đề này:",
+  "Create a separate build directory again:": "Tạo lại một thư mục dựng riêng:",
+  "Prepare Binutils for compilation:": "Chuẩn bị biên dịch Binutils:",
+  "<strong>The meaning of the new configure options:</strong>": "<strong>Ý nghĩa các tùy chọn configure mới:</strong>",
+  "Builds <code class=\"filename\">libbfd</code> as a shared library.": "Dựng <code class=\"filename\">libbfd</code> dưới dạng thư viện chia sẻ.",
+  "Enables 64-bit support (on hosts with smaller word sizes). This may not be needed on 64-bit systems, but it does no harm.": "Bật hỗ trợ 64-bit (trên các máy host có độ dài từ nhỏ hơn). Có thể không cần trên hệ thống 64-bit, nhưng cũng không có hại.",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Remove the libtool archive files because they are harmful for cross compilation, and remove unnecessary static libraries:": "Xóa các tệp lưu trữ libtool vì chúng gây hại cho biên dịch chéo, và xóa các thư viện tĩnh không cần thiết:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/binutils.html#contents-binutils\" title=\"8.20.2.&nbsp;Contents of Binutils\">Section&nbsp;8.20.2, “Contents of Binutils.”</a>": "Chi tiết về gói này có ở <a class=\"xref\" href=\"../chapter08/binutils.html#contents-binutils\" title=\"8.20.2.&nbsp;Contents of Binutils\">Mục&nbsp;8.20.2, “Contents of Binutils.”</a>"
+}

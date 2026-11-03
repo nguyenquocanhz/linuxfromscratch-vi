@@ -1,0 +1,20 @@
+{
+  "8.68. Libpipeline-1.5.8": "8.68. Libpipeline-1.5.8",
+  "<a id=\"ch-system-libpipeline\" name=\"ch-system-libpipeline\"></a>8.68. Libpipeline-1.5.8": "<a id=\"ch-system-libpipeline\" name=\"ch-system-libpipeline\"></a>8.68. Libpipeline-1.5.8",
+  "The Libpipeline package contains a library for manipulating pipelines of subprocesses in a flexible and convenient way.": "Gói Libpipeline chứa một thư viện để thao tác với các pipeline của tiến trình con một cách linh hoạt và thuận tiện.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "10 MB": "10 MB",
+  "8.68.1. Installation of Libpipeline": "8.68.1. Cài đặt Libpipeline",
+  "Prepare Libpipeline for compilation:": "Chuẩn bị biên dịch Libpipeline:",
+  "Compile the package:": "Biên dịch gói:",
+  "The tests require the <span class=\"application\">Check</span> library that we've removed from LFS.": "Các bài kiểm thử cần thư viện <span class=\"application\">Check</span>, vốn đã bị loại khỏi LFS.",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-libpipeline\" name=\"contents-libpipeline\"></a>8.68.2. Contents of Libpipeline": "<a id=\"contents-libpipeline\" name=\"contents-libpipeline\"></a>8.68.2. Nội dung của Libpipeline",
+  "Installed library:": "Thư viện được cài:",
+  "libpipeline.so": "libpipeline.so",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"libpipeline\" name=\"libpipeline\"></a><span class=\"term\"><code class=\"filename\">libpipeline</code></span>": "<a id=\"libpipeline\" name=\"libpipeline\"></a><span class=\"term\"><code class=\"filename\">libpipeline</code></span>",
+  "This library is used to safely construct pipelines between subprocesses": "Thư viện này dùng để dựng các pipeline giữa các tiến trình con một cách an toàn"
+}

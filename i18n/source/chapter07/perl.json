@@ -1,0 +1,22 @@
+[
+    "7.9. Perl-5.42.0",
+    "<a id=\"ch-tools-perl\" name=\"ch-tools-perl\"></a>7.9. Perl-5.42.0",
+    "The Perl package contains the Practical Extraction and Report Language.",
+    "Approximate build time:",
+    "0.6 SBU",
+    "Required disk space:",
+    "295 MB",
+    "7.9.1. Installation of Perl",
+    "Prepare Perl for compilation:",
+    "<strong>The meaning of the Configure options:</strong>",
+    "This is a combination of three options: -d uses defaults for all items; -e ensures completion of all tasks; -s silences non-essential output.",
+    "<span class=\"term\"><em class=\"parameter\"><code>-D vendorprefix=/usr</code></em></span>",
+    "This ensures <span class=\"command\"><strong>perl</strong></span> knows how to tell packages where they should install their Perl modules.",
+    "<span class=\"term\"><em class=\"parameter\"><code>-D useshrplib</code></em></span>",
+    "Build <code class=\"systemitem\">libperl</code> needed by some Perl modules as a shared library, instead of a static library.",
+    "<span class=\"term\"><em class=\"parameter\"><code>-D privlib,-D archlib,-D sitelib,...</code></em></span>",
+    "These settings define where Perl looks for installed modules. The LFS editors chose to put them in a directory structure based on the MAJOR.MINOR version of Perl (5.42) which allows upgrading Perl to newer patch levels (the patch level is the last dot separated part in the full version string like 5.42.0) without reinstalling all of the modules.",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/perl.html#contents-perl\" title=\"8.43.2.&nbsp;Contents of Perl\">Section&nbsp;8.43.2, “Contents of Perl.”</a>"
+]

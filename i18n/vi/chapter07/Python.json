@@ -1,0 +1,21 @@
+{
+  "7.10. Python-3.13.7": "7.10. Python-3.13.7",
+  "<a id=\"ch-tools-Python\" name=\"ch-tools-Python\"></a>7.10. Python-3.13.7": "<a id=\"ch-tools-Python\" name=\"ch-tools-Python\"></a>7.10. Python-3.13.7",
+  "The Python 3 package contains the Python development environment. It is useful for object-oriented programming, writing scripts, prototyping large programs, and developing entire applications. Python is an interpreted computer language.": "Gói Python 3 chứa môi trường phát triển Python. Nó hữu ích cho lập trình hướng đối tượng, viết script, tạo mẫu thử chương trình lớn và phát triển cả ứng dụng hoàn chỉnh. Python là một ngôn ngữ máy tính thông dịch.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.5 SBU": "0.5 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "546 MB": "546 MB",
+  "7.10.1. Installation of Python": "7.10.1. Cài đặt Python",
+  "Note": "Ghi chú",
+  "There are two package files whose name starts with the <span class=\"quote\">“<span class=\"quote\">python</span>”</span> prefix. The one to extract from is <code class=\"filename\">Python-3.13.7.tar.xz</code> (notice the uppercase first letter).": "Có hai tệp gói có tên bắt đầu bằng tiền tố <span class=\"quote\">“<span class=\"quote\">python</span>”</span>. Tệp cần giải nén là <code class=\"filename\">Python-3.13.7.tar.xz</code> (chú ý chữ cái đầu viết hoa).",
+  "Prepare Python for compilation:": "Chuẩn bị biên dịch Python:",
+  "<strong>The meaning of the configure option:</strong>": "<strong>Ý nghĩa của tùy chọn configure:</strong>",
+  "This switch prevents installation of static libraries.": "Tùy chọn này ngăn cài đặt các thư viện tĩnh.",
+  "This switch disables the Python package installer, which is not needed at this stage.": "Tùy chọn này tắt trình cài gói của Python, thứ chưa cần ở giai đoạn này.",
+  "This switch prevents building a large, but unneeded, static library.": "Tùy chọn này ngăn dựng một thư viện tĩnh lớn nhưng không cần thiết.",
+  "Compile the package:": "Biên dịch gói:",
+  "Some Python 3 modules can't be built now because the dependencies are not installed yet. For the <code class=\"filename\">ssl</code> module, a message <code class=\"computeroutput\">Python requires a OpenSSL 1.1.1 or newer</code> is outputted. The message should be ignored. Just make sure the toplevel <span class=\"command\"><strong>make</strong></span> command has not failed. The optional modules are not needed now and they will be built in <a class=\"xref\" href=\"../chapter08/chapter08.html\" title=\"Chapter&nbsp;8.&nbsp;Installing Basic System Software\">Chapter&nbsp;8</a>.": "Một số module Python 3 chưa dựng được lúc này vì các phụ thuộc chưa được cài. Với module <code class=\"filename\">ssl</code>, sẽ có thông báo <code class=\"computeroutput\">Python requires a OpenSSL 1.1.1 or newer</code>. Hãy bỏ qua thông báo này. Chỉ cần chắc rằng lệnh <span class=\"command\"><strong>make</strong></span> cấp cao nhất không thất bại. Các module tùy chọn chưa cần ngay và sẽ được dựng ở <a class=\"xref\" href=\"../chapter08/chapter08.html\" title=\"Chapter&nbsp;8.&nbsp;Installing Basic System Software\">Chương&nbsp;8</a>.",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/Python.html#contents-python\" title=\"8.51.2.&nbsp;Contents of Python 3\">Section&nbsp;8.51.2, “Contents of Python 3.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/Python.html#contents-python\" title=\"8.51.2.&nbsp;Contents of Python 3\">Mục&nbsp;8.51.2, “Nội dung của Python 3.”</a>"
+}

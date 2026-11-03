@@ -1,0 +1,14 @@
+[
+    "6.15. Tar-1.35",
+    "<a id=\"ch-tools-tar\" name=\"ch-tools-tar\"></a>6.15. Tar-1.35",
+    "The Tar package provides the ability to create tar archives as well as perform various other kinds of archive manipulation. Tar can be used on previously created archives to extract files, to store additional files, or to update or list files which were already stored.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "42 MB",
+    "6.15.1. Installation of Tar",
+    "Prepare Tar for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/tar.html#contents-tar\" title=\"8.71.2.&nbsp;Contents of Tar\">Section&nbsp;8.71.2, “Contents of Tar.”</a>"
+]

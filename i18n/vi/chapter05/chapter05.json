@@ -1,0 +1,11 @@
+{
+  "Chapter 5. Compiling a Cross-Toolchain": "Chương 5. Biên dịch toolchain chéo",
+  "<a id=\"chapter-cross-tools\" name=\"chapter-cross-tools\"></a>5. Compiling a Cross-Toolchain": "<a id=\"chapter-cross-tools\" name=\"chapter-cross-tools\"></a>5. Biên dịch toolchain chéo",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"binutils-pass1.html\">Binutils-2.45 - Pass 1</a>": "<a href=\"binutils-pass1.html\">Binutils-2.45 - Lượt 1</a>",
+  "<a href=\"gcc-pass1.html\">GCC-15.2.0 - Pass 1</a>": "<a href=\"gcc-pass1.html\">GCC-15.2.0 - Lượt 1</a>",
+  "<a href=\"linux-headers.html\">Linux-6.16.1 API Headers</a>": "<a href=\"linux-headers.html\">Header API của Linux-6.16.1</a>",
+  "<a href=\"glibc.html\">Glibc-2.42</a>": "<a href=\"glibc.html\">Glibc-2.42</a>",
+  "<a href=\"gcc-libstdc++.html\">Libstdc++ from GCC-15.2.0</a>": "<a href=\"gcc-libstdc++.html\">Libstdc++ từ GCC-15.2.0</a>"
+}

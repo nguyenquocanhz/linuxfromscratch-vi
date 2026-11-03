@@ -1,0 +1,16 @@
+[
+    "6.6. Diffutils-3.12",
+    "<a id=\"ch-tools-diffutils\" name=\"ch-tools-diffutils\"></a>6.6. Diffutils-3.12",
+    "The Diffutils package contains programs that show the differences between files or directories.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "35 MB",
+    "6.6.1. Installation of Diffutils",
+    "Prepare Diffutils for compilation:",
+    "<strong>The meaning of the configure options:</strong>",
+    "This option specify the result of a check for the <code class=\"function\">strcasecmp</code>. The check requires running a compiled C program, and this is impossible during cross-compilation because in general a cross-compiled program cannot run on the host distro. Normally for such a check the <span class=\"command\"><strong>configure</strong></span> script would use a fall-back value for cross-compilation, but the fall-back value for this check is absent and the <span class=\"command\"><strong>configure</strong></span> script would have no value to use and error out. The upstream has already fixed the issue, but to apply the fix we'd need to run <span class=\"command\"><strong>autoconf</strong></span> that the host distro may lack. So we just specify the check result (<code class=\"literal\">y</code> as we know the <code class=\"function\">strcasecmp</code> function in Glibc-2.42 works fine) instead, then <span class=\"command\"><strong>configure</strong></span> will just use the specified value and skip the check.",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/diffutils.html#contents-diffutils\" title=\"8.60.2.&nbsp;Contents of Diffutils\">Section&nbsp;8.60.2, “Contents of Diffutils.”</a>"
+]

@@ -1,0 +1,22 @@
+[
+    "8.81. Sysklogd-2.7.2",
+    "<a id=\"ch-system-sysklogd\" name=\"ch-system-sysklogd\"></a>8.81. Sysklogd-2.7.2",
+    "The Sysklogd package contains programs for logging system messages, such as those emitted by the kernel when unusual things happen.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "3.9 MB",
+    "8.81.1. Installation of Sysklogd",
+    "Prepare the package for compilation:",
+    "Compile the package:",
+    "This package does not come with a test suite.",
+    "Install the package:",
+    "<a id=\"conf-sysklogd\" name=\"conf-sysklogd\"></a>8.81.2. Configuring Sysklogd",
+    "Create a new <code class=\"filename\">/etc/syslog.conf</code> file by running the following:",
+    "<a id=\"contents-sysklogd\" name=\"contents-sysklogd\"></a>8.81.3. Contents of Sysklogd",
+    "Installed program:",
+    "syslogd",
+    "Short Descriptions",
+    "<a id=\"syslogd\" name=\"syslogd\"></a><span class=\"term\"><span class=\"command\"><strong>syslogd</strong></span></span>",
+    "Logs the messages that system programs offer for logging [Every logged message contains at least a date stamp and a hostname, and normally the program's name too, but that depends on how trusting the logging daemon is told to be.]"
+]

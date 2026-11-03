@@ -1,0 +1,23 @@
+{
+  "11.3. Rebooting the System": "11.3. Khởi động lại hệ thống",
+  "<a id=\"ch-finish-reboot\" name=\"ch-finish-reboot\"></a>11.3. Rebooting the System": "<a id=\"ch-finish-reboot\" name=\"ch-finish-reboot\"></a>11.3. Khởi động lại hệ thống",
+  "Now that all of the software has been installed, it is time to reboot your computer. However, there are still a few things to check. Here are some suggestions:": "Giờ toàn bộ phần mềm đã được cài, đã đến lúc khởi động lại máy tính. Tuy nhiên, vẫn còn vài thứ cần kiểm tra. Sau đây là một số gợi ý:",
+  "Install any <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/postlfs/firmware.html\"> firmware</a> needed if the kernel driver for your hardware requires some firmware files to function properly.": "Cài mọi <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/postlfs/firmware.html\"> firmware</a> cần thiết nếu driver kernel cho phần cứng của bạn cần một số tệp firmware để hoạt động đúng.",
+  "Ensure a password is set for the <code class=\"systemitem\">root</code> user.": "Đảm bảo người dùng <code class=\"systemitem\">root</code> đã được đặt mật khẩu.",
+  "A review of the following configuration files is also appropriate at this point.": "Lúc này cũng nên xem lại các tệp cấu hình sau.",
+  "/etc/fstab": "/etc/fstab",
+  "/etc/hosts": "/etc/hosts",
+  "/etc/inputrc": "/etc/inputrc",
+  "/etc/profile": "/etc/profile",
+  "/etc/resolv.conf": "/etc/resolv.conf",
+  "/etc/vimrc": "/etc/vimrc",
+  "/etc/sysconfig/ifconfig.eth0": "/etc/sysconfig/ifconfig.eth0",
+  "Now that we have said that, let's move on to booting our shiny new LFS installation for the first time! <span class=\"emphasis\"><em>First exit from the chroot environment</em></span>:": "Nói vậy là đủ rồi, giờ hãy khởi động hệ thống LFS mới tinh của chúng ta lần đầu tiên! <span class=\"emphasis\"><em>Trước hết hãy thoát khỏi môi trường chroot</em></span>:",
+  "Then unmount the virtual file systems:": "Sau đó umount các hệ thống tệp ảo:",
+  "If multiple partitions were created, unmount the other partitions before unmounting the main one, like this:": "Nếu bạn đã tạo nhiều phân vùng, hãy umount các phân vùng khác trước khi umount phân vùng chính, như sau:",
+  "Unmount the LFS file system itself:": "Umount chính hệ thống tệp LFS:",
+  "Now, reboot the system.": "Bây giờ, hãy khởi động lại hệ thống.",
+  "Assuming the GRUB boot loader was set up as outlined earlier, the menu is set to boot <span class=\"emphasis\"><em>LFS 12.4</em></span> automatically.": "Giả sử trình nạp khởi động GRUB đã được thiết lập như đã nêu ở trên, menu sẽ được đặt để tự động khởi động <span class=\"emphasis\"><em>LFS 12.4</em></span>.",
+  "When the reboot is complete, the LFS system is ready for use. What you will see is a simple <span class=\"quote\">“<span class=\"quote\">login:</span> ”</span> prompt. At this point, you can proceed to <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/\">the BLFS Book</a> where you can add more software to suit your needs.": "Khi khởi động lại xong, hệ thống LFS đã sẵn sàng sử dụng. Bạn sẽ thấy một dấu nhắc đơn giản <span class=\"quote\">“<span class=\"quote\">login:</span> ”</span>. Đến đây, bạn có thể chuyển sang <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/\">sách BLFS</a> để thêm phần mềm theo nhu cầu của mình.",
+  "If your reboot is <span class=\"bold\"><strong>not</strong></span> successful, it is time to troubleshoot. For hints on solving initial booting problems, see <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/lfs/troubleshooting.html\">https://www.linuxfromscratch.org/lfs/troubleshooting.html</a>.": "Nếu lần khởi động lại của bạn <span class=\"bold\"><strong>không</strong></span> thành công, đã đến lúc xử lý sự cố. Để tìm gợi ý giải quyết các vấn đề khởi động ban đầu, xem <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/lfs/troubleshooting.html\">https://www.linuxfromscratch.org/lfs/troubleshooting.html</a>."
+}

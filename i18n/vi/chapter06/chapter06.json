@@ -1,0 +1,22 @@
+{
+  "Chapter 6. Cross Compiling Temporary Tools": "Chương 6. Biên dịch chéo các công cụ tạm",
+  "<a id=\"chapter-temporary-tools\" name=\"chapter-temporary-tools\"></a>6. Cross Compiling Temporary Tools": "<a id=\"chapter-temporary-tools\" name=\"chapter-temporary-tools\"></a>6. Biên dịch chéo các công cụ tạm",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"ncurses.html\">Ncurses-6.5-20250809</a>": "<a href=\"ncurses.html\">Ncurses-6.5-20250809</a>",
+  "<a href=\"bash.html\">Bash-5.3</a>": "<a href=\"bash.html\">Bash-5.3</a>",
+  "<a href=\"coreutils.html\">Coreutils-9.7</a>": "<a href=\"coreutils.html\">Coreutils-9.7</a>",
+  "<a href=\"diffutils.html\">Diffutils-3.12</a>": "<a href=\"diffutils.html\">Diffutils-3.12</a>",
+  "<a href=\"file.html\">File-5.46</a>": "<a href=\"file.html\">File-5.46</a>",
+  "<a href=\"findutils.html\">Findutils-4.10.0</a>": "<a href=\"findutils.html\">Findutils-4.10.0</a>",
+  "<a href=\"gawk.html\">Gawk-5.3.2</a>": "<a href=\"gawk.html\">Gawk-5.3.2</a>",
+  "<a href=\"grep.html\">Grep-3.12</a>": "<a href=\"grep.html\">Grep-3.12</a>",
+  "<a href=\"gzip.html\">Gzip-1.14</a>": "<a href=\"gzip.html\">Gzip-1.14</a>",
+  "<a href=\"make.html\">Make-4.4.1</a>": "<a href=\"make.html\">Make-4.4.1</a>",
+  "<a href=\"patch.html\">Patch-2.8</a>": "<a href=\"patch.html\">Patch-2.8</a>",
+  "<a href=\"sed.html\">Sed-4.9</a>": "<a href=\"sed.html\">Sed-4.9</a>",
+  "<a href=\"tar.html\">Tar-1.35</a>": "<a href=\"tar.html\">Tar-1.35</a>",
+  "<a href=\"xz.html\">Xz-5.8.1</a>": "<a href=\"xz.html\">Xz-5.8.1</a>",
+  "<a href=\"binutils-pass2.html\">Binutils-2.45 - Pass 2</a>": "<a href=\"binutils-pass2.html\">Binutils-2.45 - Lượt 2</a>",
+  "<a href=\"gcc-pass2.html\">GCC-15.2.0 - Pass 2</a>": "<a href=\"gcc-pass2.html\">GCC-15.2.0 - Lượt 2</a>"
+}

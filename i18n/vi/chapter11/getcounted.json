@@ -1,0 +1,6 @@
+{
+  "11.2. Get Counted": "11.2. Hãy để chúng tôi biết bạn",
+  "<a id=\"ch-finish-getcounted\" name=\"ch-finish-getcounted\"></a>11.2. Get Counted": "<a id=\"ch-finish-getcounted\" name=\"ch-finish-getcounted\"></a>11.2. Hãy để chúng tôi biết bạn",
+  "Now that you have finished the book, do you want to be counted as an LFS user? Head over to <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/cgi-bin/lfscounter.php\">https://www.linuxfromscratch.org/cgi-bin/lfscounter.php</a> and register as an LFS user by entering your name and the first LFS version you have used.": "Bạn đã đọc xong cuốn sách, vậy bạn có muốn được tính là một người dùng LFS không? Hãy truy cập <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/cgi-bin/lfscounter.php\">https://www.linuxfromscratch.org/cgi-bin/lfscounter.php</a> và đăng ký làm người dùng LFS bằng cách nhập tên của bạn và phiên bản LFS đầu tiên bạn đã dùng.",
+  "Let's reboot into LFS now.": "Giờ hãy khởi động lại vào LFS nào."
+}

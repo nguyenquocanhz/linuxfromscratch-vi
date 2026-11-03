@@ -1,0 +1,14 @@
+[
+    "7.11. Texinfo-7.2",
+    "<a id=\"ch-tools-texinfo\" name=\"ch-tools-texinfo\"></a>7.11. Texinfo-7.2",
+    "The Texinfo package contains programs for reading, writing, and converting info pages.",
+    "Approximate build time:",
+    "0.2 SBU",
+    "Required disk space:",
+    "152 MB",
+    "7.11.1. Installation of Texinfo",
+    "Prepare Texinfo for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/texinfo.html#contents-texinfo\" title=\"8.72.2.&nbsp;Contents of Texinfo\">Section&nbsp;8.72.2, “Contents of Texinfo.”</a>"
+]

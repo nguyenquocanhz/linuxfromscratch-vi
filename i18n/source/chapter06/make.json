@@ -1,0 +1,14 @@
+[
+    "6.12. Make-4.4.1",
+    "<a id=\"ch-tools-make\" name=\"ch-tools-make\"></a>6.12. Make-4.4.1",
+    "The Make package contains a program for controlling the generation of executables and other non-source files of a package from source files.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "15 MB",
+    "6.12.1. Installation of Make",
+    "Prepare Make for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/make.html#contents-make\" title=\"8.69.2.&nbsp;Contents of Make\">Section&nbsp;8.69.2, “Contents of Make.”</a>"
+]

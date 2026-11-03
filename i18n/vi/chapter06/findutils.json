@@ -1,0 +1,14 @@
+{
+  "6.8. Findutils-4.10.0": "6.8. Findutils-4.10.0",
+  "<a id=\"ch-tools-findutils\" name=\"ch-tools-findutils\"></a>6.8. Findutils-4.10.0": "<a id=\"ch-tools-findutils\" name=\"ch-tools-findutils\"></a>6.8. Findutils-4.10.0",
+  "The Findutils package contains programs to find files. Programs are provided to search through all the files in a directory tree and to create, maintain, and search a database (often faster than the recursive find, but unreliable unless the database has been updated recently). Findutils also supplies the <span class=\"command\"><strong>xargs</strong></span> program, which can be used to run a specified command on each file selected by a search.": "Gói Findutils chứa các chương trình để tìm tệp. Có chương trình tìm kiếm trong toàn bộ cây thư mục, cũng như tạo, duy trì và tìm trong một cơ sở dữ liệu (thường nhanh hơn find đệ quy, nhưng không đáng tin nếu cơ sở dữ liệu chưa được cập nhật gần đây). Findutils còn cung cấp chương trình <span class=\"command\"><strong>xargs</strong></span>, dùng để chạy một lệnh chỉ định trên từng tệp được chọn qua tìm kiếm.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.2 SBU": "0.2 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "48 MB": "48 MB",
+  "6.8.1. Installation of Findutils": "6.8.1. Cài đặt Findutils",
+  "Prepare Findutils for compilation:": "Chuẩn bị biên dịch Findutils:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/findutils.html#contents-findutils\" title=\"8.62.2.&nbsp;Contents of Findutils\">Section&nbsp;8.62.2, “Contents of Findutils.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/findutils.html#contents-findutils\" title=\"8.62.2.&nbsp;Contents of Findutils\">Mục&nbsp;8.62.2, “Nội dung của Findutils.”</a>"
+}

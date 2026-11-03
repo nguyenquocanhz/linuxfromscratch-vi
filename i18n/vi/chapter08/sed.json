@@ -1,0 +1,22 @@
+{
+  "8.31. Sed-4.9": "8.31. Sed-4.9",
+  "<a id=\"ch-system-sed\" name=\"ch-system-sed\"></a>8.31. Sed-4.9": "<a id=\"ch-system-sed\" name=\"ch-system-sed\"></a>8.31. Sed-4.9",
+  "The Sed package contains a stream editor.": "Gói Sed chứa một trình soạn thảo luồng (stream editor).",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.3 SBU": "0.3 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "30 MB": "30 MB",
+  "8.31.1. Installation of Sed": "8.31.1. Cài đặt Sed",
+  "Prepare Sed for compilation:": "Chuẩn bị biên dịch Sed:",
+  "Compile the package and generate the HTML documentation:": "Biên dịch gói và tạo tài liệu HTML:",
+  "To test the results, issue:": "Để kiểm thử kết quả, chạy:",
+  "Install the package and its documentation:": "Cài đặt gói cùng tài liệu của nó:",
+  "<a id=\"contents-sed\" name=\"contents-sed\"></a>8.31.2. Contents of Sed": "<a id=\"contents-sed\" name=\"contents-sed\"></a>8.31.2. Nội dung của Sed",
+  "Installed program:": "Chương trình được cài:",
+  "sed": "sed",
+  "Installed directory:": "Thư mục được cài:",
+  "/usr/share/doc/sed-4.9": "/usr/share/doc/sed-4.9",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"sed\" name=\"sed\"></a><span class=\"term\"><span class=\"command\"><strong>sed</strong></span></span>": "<a id=\"sed\" name=\"sed\"></a><span class=\"term\"><span class=\"command\"><strong>sed</strong></span></span>",
+  "Filters and transforms text files in a single pass": "Lọc và biến đổi các tệp văn bản chỉ trong một lượt"
+}

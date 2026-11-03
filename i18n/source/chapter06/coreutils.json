@@ -1,0 +1,17 @@
+[
+    "6.5. Coreutils-9.7",
+    "<a id=\"ch-tools-coreutils\" name=\"ch-tools-coreutils\"></a>6.5. Coreutils-9.7",
+    "The Coreutils package contains the basic utility programs needed by every operating system.",
+    "Approximate build time:",
+    "0.3 SBU",
+    "Required disk space:",
+    "181 MB",
+    "6.5.1. Installation of Coreutils",
+    "Prepare Coreutils for compilation:",
+    "<strong>The meaning of the configure options:</strong>",
+    "This enables the <span class=\"command\"><strong>hostname</strong></span> binary to be built and installed – it is disabled by default but is required by the Perl test suite.",
+    "Compile the package:",
+    "Install the package:",
+    "Move programs to their final expected locations. Although this is not necessary in this temporary environment, we must do so because some programs hardcode executable locations:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/coreutils.html#contents-coreutils\" title=\"8.59.2.&nbsp;Contents of Coreutils\">Section&nbsp;8.59.2, “Contents of Coreutils.”</a>"
+]

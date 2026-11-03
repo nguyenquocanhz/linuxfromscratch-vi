@@ -1,0 +1,19 @@
+[
+    "8.4. Iana-Etc-20250807",
+    "<a id=\"ch-system-iana-etc\" name=\"ch-system-iana-etc\"></a>8.4. Iana-Etc-20250807",
+    "The Iana-Etc package provides data for network services and protocols.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "4.8 MB",
+    "8.4.1. Installation of Iana-Etc",
+    "For this package, we only need to copy the files into place:",
+    "<a id=\"contents-iana-etc\" name=\"contents-iana-etc\"></a>8.4.2. Contents of Iana-Etc",
+    "Installed files:",
+    "/etc/protocols and /etc/services",
+    "Short Descriptions",
+    "<a id=\"protocols\" name=\"protocols\"></a><span class=\"term\"><code class=\"filename\">/etc/protocols</code></span>",
+    "Describes the various DARPA Internet protocols that are available from the TCP/IP subsystem",
+    "<a id=\"services\" name=\"services\"></a><span class=\"term\"><code class=\"filename\">/etc/services</code></span>",
+    "Provides a mapping between friendly textual names for internet services, and their underlying assigned port numbers and protocol types"
+]

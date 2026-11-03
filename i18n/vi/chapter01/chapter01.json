@@ -1,0 +1,10 @@
+{
+  "Chapter 1. Introduction": "Chương 1. Giới thiệu",
+  "<a id=\"chapter-intro\" name=\"chapter-intro\"></a>1. Introduction": "<a id=\"chapter-intro\" name=\"chapter-intro\"></a>1. Giới thiệu",
+  "Table of Contents": "Mục lục",
+  "<a href=\"how.html\">How to Build an LFS System</a>": "<a href=\"how.html\">Cách dựng một hệ thống LFS</a>",
+  "<a href=\"whatsnew.html\">What's new since the last release</a>": "<a href=\"whatsnew.html\">Có gì mới kể từ bản phát hành trước</a>",
+  "<a href=\"changelog.html\">Changelog</a>": "<a href=\"changelog.html\">Nhật ký thay đổi</a>",
+  "<a href=\"resources.html\">Resources</a>": "<a href=\"resources.html\">Tài nguyên</a>",
+  "<a href=\"askforhelp.html\">Help</a>": "<a href=\"askforhelp.html\">Trợ giúp</a>"
+}

@@ -1,0 +1,8 @@
+[
+    "9.8. Creating the /etc/inputrc File",
+    "<a id=\"ch-config-inputrc\" name=\"ch-config-inputrc\"></a>9.8. Creating the /etc/inputrc File",
+    "The <code class=\"filename\">inputrc</code> file is the configuration file for the readline library, which provides editing capabilities while the user is entering a line from the terminal. It works by translating keyboard inputs into specific actions. Readline is used by bash and most other shells as well as many other applications.",
+    "Most people do not need user-specific functionality so the command below creates a global <code class=\"filename\">/etc/inputrc</code> used by everyone who logs in. If you later decide you need to override the defaults on a per user basis, you can create a <code class=\"filename\">.inputrc</code> file in the user's home directory with the modified mappings.",
+    "For more information on how to edit the <code class=\"filename\">inputrc</code> file, see <span class=\"command\"><strong>info bash</strong></span> under the <span class=\"emphasis\"><em>Readline Init File</em></span> section. <span class=\"command\"><strong>info readline</strong></span> is also a good source of information.",
+    "Below is a generic global <code class=\"filename\">inputrc</code> along with comments to explain what the various options do. Note that comments cannot be on the same line as commands. Create the file using the following command:"
+]

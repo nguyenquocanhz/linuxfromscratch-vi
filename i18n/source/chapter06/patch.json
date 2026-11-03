@@ -1,0 +1,14 @@
+[
+    "6.13. Patch-2.8",
+    "<a id=\"ch-tools-patch\" name=\"ch-tools-patch\"></a>6.13. Patch-2.8",
+    "The Patch package contains a program for modifying or creating files by applying a <span class=\"quote\">“<span class=\"quote\">patch</span>”</span> file typically created by the <span class=\"command\"><strong>diff</strong></span> program.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "14 MB",
+    "6.13.1. Installation of Patch",
+    "Prepare Patch for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/patch.html#contents-patch\" title=\"8.70.2.&nbsp;Contents of Patch\">Section&nbsp;8.70.2, “Contents of Patch.”</a>"
+]

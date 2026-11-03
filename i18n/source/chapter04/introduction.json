@@ -1,0 +1,5 @@
+[
+    "4.1. Introduction",
+    "<a id=\"ch-preps-introduction\" name=\"ch-preps-introduction\"></a>4.1. Introduction",
+    "In this chapter, we will perform a few additional tasks to prepare for building the temporary system. We will create a set of directories in <code class=\"filename\">$LFS</code> (in which we will install the temporary tools), add an unprivileged user, and create an appropriate build environment for that user. We will also explain the units of time (<span class=\"quote\">“<span class=\"quote\">SBUs</span>”</span>) we use to measure how long it takes to build LFS packages, and provide some information about package test suites."
+]

@@ -1,0 +1,16 @@
+[
+    "7.8. Bison-3.8.2",
+    "<a id=\"ch-tools-bison\" name=\"ch-tools-bison\"></a>7.8. Bison-3.8.2",
+    "The Bison package contains a parser generator.",
+    "Approximate build time:",
+    "0.2 SBU",
+    "Required disk space:",
+    "58 MB",
+    "7.8.1. Installation of Bison",
+    "Prepare Bison for compilation:",
+    "<strong>The meaning of the new configure option:</strong>",
+    "This tells the build system to install bison documentation into a versioned directory.",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/bison.html#contents-bison\" title=\"8.34.2.&nbsp;Contents of Bison\">Section&nbsp;8.34.2, “Contents of Bison.”</a>"
+]

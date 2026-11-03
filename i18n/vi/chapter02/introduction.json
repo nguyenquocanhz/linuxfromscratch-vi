@@ -1,0 +1,5 @@
+{
+  "2.1. Introduction": "2.1. Giới thiệu",
+  "<a id=\"ch-partitioning-introduction\" name=\"ch-partitioning-introduction\"></a>2.1. Introduction": "<a id=\"ch-partitioning-introduction\" name=\"ch-partitioning-introduction\"></a>2.1. Giới thiệu",
+  "In this chapter, the host tools needed for building LFS are checked and, if necessary, installed. Then a partition which will host the LFS system is prepared. We will create the partition itself, create a file system on it, and mount it.": "Trong chương này, các công cụ trên máy host cần thiết để dựng LFS sẽ được kiểm tra và, nếu cần, được cài đặt. Sau đó chúng ta chuẩn bị một phân vùng để chứa hệ thống LFS: tạo phân vùng, tạo hệ thống tệp trên đó rồi mount nó."
+}

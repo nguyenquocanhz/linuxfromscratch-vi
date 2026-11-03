@@ -1,0 +1,14 @@
+{
+  "6.10. Grep-3.12": "6.10. Grep-3.12",
+  "<a id=\"ch-tools-grep\" name=\"ch-tools-grep\"></a>6.10. Grep-3.12": "<a id=\"ch-tools-grep\" name=\"ch-tools-grep\"></a>6.10. Grep-3.12",
+  "The Grep package contains programs for searching through the contents of files.": "Gói Grep chứa các chương trình để tìm kiếm trong nội dung tệp.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "32 MB": "32 MB",
+  "6.10.1. Installation of Grep": "6.10.1. Cài đặt Grep",
+  "Prepare Grep for compilation:": "Chuẩn bị biên dịch Grep:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/grep.html#contents-grep\" title=\"8.35.2.&nbsp;Contents of Grep\">Section&nbsp;8.35.2, “Contents of Grep.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/grep.html#contents-grep\" title=\"8.35.2.&nbsp;Contents of Grep\">Mục&nbsp;8.35.2, “Nội dung của Grep.”</a>"
+}

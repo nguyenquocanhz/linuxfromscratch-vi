@@ -1,0 +1,16 @@
+[
+    "8.74. MarkupSafe-3.0.2",
+    "<a id=\"ch-system-markupsafe\" name=\"ch-system-markupsafe\"></a>8.74. MarkupSafe-3.0.2",
+    "MarkupSafe is a Python module that implements an XML/HTML/XHTML Markup safe string.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "500 KB",
+    "8.74.1. Installation of MarkupSafe",
+    "Compile MarkupSafe with the following command:",
+    "This package does not come with a test suite.",
+    "Install the package:",
+    "<a id=\"contents-markupsafe\" name=\"contents-markupsafe\"></a>8.74.2. Contents of MarkupSafe",
+    "Installed directory:",
+    "/usr/lib/python3.13/site-packages/MarkupSafe-3.0.2.dist-info"
+]

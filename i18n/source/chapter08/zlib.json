@@ -1,0 +1,21 @@
+[
+    "8.6. Zlib-1.3.1",
+    "<a id=\"ch-system-zlib\" name=\"ch-system-zlib\"></a>8.6. Zlib-1.3.1",
+    "The Zlib package contains compression and decompression routines used by some programs.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "6.4 MB",
+    "8.6.1. Installation of Zlib",
+    "Prepare Zlib for compilation:",
+    "Compile the package:",
+    "To test the results, issue:",
+    "Install the package:",
+    "Remove a useless static library:",
+    "<a id=\"contents-zlib\" name=\"contents-zlib\"></a>8.6.2. Contents of Zlib",
+    "Installed libraries:",
+    "libz.so",
+    "Short Descriptions",
+    "<a id=\"libz\" name=\"libz\"></a><span class=\"term\"><code class=\"filename\">libz</code></span>",
+    "Contains compression and decompression functions used by some programs"
+]

@@ -1,0 +1,15 @@
+[
+    "6.16. Xz-5.8.1",
+    "<a id=\"ch-tools-xz\" name=\"ch-tools-xz\"></a>6.16. Xz-5.8.1",
+    "The Xz package contains programs for compressing and decompressing files. It provides capabilities for the lzma and the newer xz compression formats. Compressing text files with <span class=\"command\"><strong>xz</strong></span> yields a better compression percentage than with the traditional <span class=\"command\"><strong>gzip</strong></span> or <span class=\"command\"><strong>bzip2</strong></span> commands.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "23 MB",
+    "6.16.1. Installation of Xz",
+    "Prepare Xz for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Remove the libtool archive file because it is harmful for cross compilation:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/xz.html#contents-xz\" title=\"8.8.2.&nbsp;Contents of Xz\">Section&nbsp;8.8.2, “Contents of Xz.”</a>"
+]

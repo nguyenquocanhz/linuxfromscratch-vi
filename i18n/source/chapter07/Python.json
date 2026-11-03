@@ -1,0 +1,21 @@
+[
+    "7.10. Python-3.13.7",
+    "<a id=\"ch-tools-Python\" name=\"ch-tools-Python\"></a>7.10. Python-3.13.7",
+    "The Python 3 package contains the Python development environment. It is useful for object-oriented programming, writing scripts, prototyping large programs, and developing entire applications. Python is an interpreted computer language.",
+    "Approximate build time:",
+    "0.5 SBU",
+    "Required disk space:",
+    "546 MB",
+    "7.10.1. Installation of Python",
+    "Note",
+    "There are two package files whose name starts with the <span class=\"quote\">“<span class=\"quote\">python</span>”</span> prefix. The one to extract from is <code class=\"filename\">Python-3.13.7.tar.xz</code> (notice the uppercase first letter).",
+    "Prepare Python for compilation:",
+    "<strong>The meaning of the configure option:</strong>",
+    "This switch prevents installation of static libraries.",
+    "This switch disables the Python package installer, which is not needed at this stage.",
+    "This switch prevents building a large, but unneeded, static library.",
+    "Compile the package:",
+    "Some Python 3 modules can't be built now because the dependencies are not installed yet. For the <code class=\"filename\">ssl</code> module, a message <code class=\"computeroutput\">Python requires a OpenSSL 1.1.1 or newer</code> is outputted. The message should be ignored. Just make sure the toplevel <span class=\"command\"><strong>make</strong></span> command has not failed. The optional modules are not needed now and they will be built in <a class=\"xref\" href=\"../chapter08/chapter08.html\" title=\"Chapter&nbsp;8.&nbsp;Installing Basic System Software\">Chapter&nbsp;8</a>.",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/Python.html#contents-python\" title=\"8.51.2.&nbsp;Contents of Python 3\">Section&nbsp;8.51.2, “Contents of Python 3.”</a>"
+]

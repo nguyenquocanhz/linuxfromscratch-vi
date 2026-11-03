@@ -1,0 +1,16 @@
+{
+  "8.74. MarkupSafe-3.0.2": "8.74. MarkupSafe-3.0.2",
+  "<a id=\"ch-system-markupsafe\" name=\"ch-system-markupsafe\"></a>8.74. MarkupSafe-3.0.2": "<a id=\"ch-system-markupsafe\" name=\"ch-system-markupsafe\"></a>8.74. MarkupSafe-3.0.2",
+  "MarkupSafe is a Python module that implements an XML/HTML/XHTML Markup safe string.": "MarkupSafe là một module Python cài đặt chuỗi an toàn cho markup XML/HTML/XHTML.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "500 KB": "500 KB",
+  "8.74.1. Installation of MarkupSafe": "8.74.1. Cài đặt MarkupSafe",
+  "Compile MarkupSafe with the following command:": "Biên dịch MarkupSafe bằng lệnh sau:",
+  "This package does not come with a test suite.": "Gói này không đi kèm bộ kiểm thử.",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-markupsafe\" name=\"contents-markupsafe\"></a>8.74.2. Contents of MarkupSafe": "<a id=\"contents-markupsafe\" name=\"contents-markupsafe\"></a>8.74.2. Nội dung của MarkupSafe",
+  "Installed directory:": "Thư mục được cài:",
+  "/usr/lib/python3.13/site-packages/MarkupSafe-3.0.2.dist-info": "/usr/lib/python3.13/site-packages/MarkupSafe-3.0.2.dist-info"
+}

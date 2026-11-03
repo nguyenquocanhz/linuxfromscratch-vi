@@ -1,0 +1,15 @@
+{
+  "6.16. Xz-5.8.1": "6.16. Xz-5.8.1",
+  "<a id=\"ch-tools-xz\" name=\"ch-tools-xz\"></a>6.16. Xz-5.8.1": "<a id=\"ch-tools-xz\" name=\"ch-tools-xz\"></a>6.16. Xz-5.8.1",
+  "The Xz package contains programs for compressing and decompressing files. It provides capabilities for the lzma and the newer xz compression formats. Compressing text files with <span class=\"command\"><strong>xz</strong></span> yields a better compression percentage than with the traditional <span class=\"command\"><strong>gzip</strong></span> or <span class=\"command\"><strong>bzip2</strong></span> commands.": "Gói Xz chứa các chương trình để nén và giải nén tệp. Nó hỗ trợ các định dạng nén lzma và xz (mới hơn). Nén tệp văn bản bằng <span class=\"command\"><strong>xz</strong></span> cho tỷ lệ nén tốt hơn so với các lệnh truyền thống như <span class=\"command\"><strong>gzip</strong></span> hay <span class=\"command\"><strong>bzip2</strong></span>.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "23 MB": "23 MB",
+  "6.16.1. Installation of Xz": "6.16.1. Cài đặt Xz",
+  "Prepare Xz for compilation:": "Chuẩn bị biên dịch Xz:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Remove the libtool archive file because it is harmful for cross compilation:": "Xóa tệp lưu trữ libtool vì nó gây hại khi biên dịch chéo:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/xz.html#contents-xz\" title=\"8.8.2.&nbsp;Contents of Xz\">Section&nbsp;8.8.2, “Contents of Xz.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/xz.html#contents-xz\" title=\"8.8.2.&nbsp;Contents of Xz\">Mục&nbsp;8.8.2, “Nội dung của Xz.”</a>"
+}

@@ -1,0 +1,14 @@
+{
+  "6.14. Sed-4.9": "6.14. Sed-4.9",
+  "<a id=\"ch-tools-sed\" name=\"ch-tools-sed\"></a>6.14. Sed-4.9": "<a id=\"ch-tools-sed\" name=\"ch-tools-sed\"></a>6.14. Sed-4.9",
+  "The Sed package contains a stream editor.": "Gói Sed chứa một trình soạn thảo luồng (stream editor).",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "21 MB": "21 MB",
+  "6.14.1. Installation of Sed": "6.14.1. Cài đặt Sed",
+  "Prepare Sed for compilation:": "Chuẩn bị biên dịch Sed:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/sed.html#contents-sed\" title=\"8.31.2.&nbsp;Contents of Sed\">Section&nbsp;8.31.2, “Contents of Sed.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/sed.html#contents-sed\" title=\"8.31.2.&nbsp;Contents of Sed\">Mục&nbsp;8.31.2, “Nội dung của Sed.”</a>"
+}

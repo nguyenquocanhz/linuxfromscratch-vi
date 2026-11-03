@@ -1,0 +1,23 @@
+[
+    "11.3. Rebooting the System",
+    "<a id=\"ch-finish-reboot\" name=\"ch-finish-reboot\"></a>11.3. Rebooting the System",
+    "Now that all of the software has been installed, it is time to reboot your computer. However, there are still a few things to check. Here are some suggestions:",
+    "Install any <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/postlfs/firmware.html\"> firmware</a> needed if the kernel driver for your hardware requires some firmware files to function properly.",
+    "Ensure a password is set for the <code class=\"systemitem\">root</code> user.",
+    "A review of the following configuration files is also appropriate at this point.",
+    "/etc/fstab",
+    "/etc/hosts",
+    "/etc/inputrc",
+    "/etc/profile",
+    "/etc/resolv.conf",
+    "/etc/vimrc",
+    "/etc/sysconfig/ifconfig.eth0",
+    "Now that we have said that, let's move on to booting our shiny new LFS installation for the first time! <span class=\"emphasis\"><em>First exit from the chroot environment</em></span>:",
+    "Then unmount the virtual file systems:",
+    "If multiple partitions were created, unmount the other partitions before unmounting the main one, like this:",
+    "Unmount the LFS file system itself:",
+    "Now, reboot the system.",
+    "Assuming the GRUB boot loader was set up as outlined earlier, the menu is set to boot <span class=\"emphasis\"><em>LFS 12.4</em></span> automatically.",
+    "When the reboot is complete, the LFS system is ready for use. What you will see is a simple <span class=\"quote\">“<span class=\"quote\">login:</span> ”</span> prompt. At this point, you can proceed to <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/blfs/view/12.4/\">the BLFS Book</a> where you can add more software to suit your needs.",
+    "If your reboot is <span class=\"bold\"><strong>not</strong></span> successful, it is time to troubleshoot. For hints on solving initial booting problems, see <a class=\"ulink\" href=\"https://www.linuxfromscratch.org/lfs/troubleshooting.html\">https://www.linuxfromscratch.org/lfs/troubleshooting.html</a>."
+]

@@ -1,0 +1,15 @@
+{
+  "8.55. Setuptools-80.9.0": "8.55. Setuptools-80.9.0",
+  "<a id=\"ch-system-setuptools\" name=\"ch-system-setuptools\"></a>8.55. Setuptools-80.9.0": "<a id=\"ch-system-setuptools\" name=\"ch-system-setuptools\"></a>8.55. Setuptools-80.9.0",
+  "Setuptools is a tool used to download, build, install, upgrade, and uninstall Python packages.": "Setuptools là công cụ dùng để tải về, dựng, cài đặt, nâng cấp và gỡ cài đặt các gói Python.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "25 MB": "25 MB",
+  "8.55.1. Installation of Setuptools": "8.55.1. Cài đặt Setuptools",
+  "Build the package:": "Dựng gói:",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-setuptools\" name=\"contents-setuptools\"></a>8.55.2. Contents of Setuptools": "<a id=\"contents-setuptools\" name=\"contents-setuptools\"></a>8.55.2. Nội dung của Setuptools",
+  "Installed directory:": "Thư mục được cài:",
+  "/usr/lib/python3.13/site-packages/_distutils_hack, /usr/lib/python3.13/site-packages/pkg_resources, /usr/lib/python3.13/site-packages/setuptools, and /usr/lib/python3.13/site-packages/setuptools-80.9.0.dist-info": "/usr/lib/python3.13/site-packages/_distutils_hack, /usr/lib/python3.13/site-packages/pkg_resources, /usr/lib/python3.13/site-packages/setuptools và /usr/lib/python3.13/site-packages/setuptools-80.9.0.dist-info"
+}

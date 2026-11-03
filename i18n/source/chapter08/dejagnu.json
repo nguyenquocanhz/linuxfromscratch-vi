@@ -1,0 +1,22 @@
+[
+    "8.18. DejaGNU-1.6.3",
+    "<a id=\"ch-system-dejagnu\" name=\"ch-system-dejagnu\"></a>8.18. DejaGNU-1.6.3",
+    "The <span class=\"application\">DejaGnu</span> package contains a framework for running test suites on GNU tools. It is written in <span class=\"command\"><strong>expect</strong></span>, which itself uses <span class=\"application\">Tcl</span> (Tool Command Language).",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "6.9 MB",
+    "8.18.1. Installation of DejaGNU",
+    "The upstream recommends building DejaGNU in a dedicated build directory:",
+    "Prepare DejaGNU for compilation:",
+    "To test the results, issue:",
+    "Install the package:",
+    "<a id=\"contents-dejagnu\" name=\"contents-dejagnu\"></a>8.18.2. Contents of DejaGNU",
+    "Installed program:",
+    "dejagnu and runtest",
+    "Short Descriptions",
+    "<a id=\"dejagnu\" name=\"dejagnu\"></a><span class=\"term\"><span class=\"command\"><strong>dejagnu</strong></span></span>",
+    "DejaGNU auxiliary command launcher",
+    "<a id=\"runtest\" name=\"runtest\"></a><span class=\"term\"><span class=\"command\"><strong>runtest</strong></span></span>",
+    "A wrapper script that locates the proper <span class=\"command\"><strong>expect</strong></span> shell and then runs DejaGNU"
+]

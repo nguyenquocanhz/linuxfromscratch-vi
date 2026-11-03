@@ -1,0 +1,19 @@
+{
+  "8.4. Iana-Etc-20250807": "8.4. Iana-Etc-20250807",
+  "<a id=\"ch-system-iana-etc\" name=\"ch-system-iana-etc\"></a>8.4. Iana-Etc-20250807": "<a id=\"ch-system-iana-etc\" name=\"ch-system-iana-etc\"></a>8.4. Iana-Etc-20250807",
+  "The Iana-Etc package provides data for network services and protocols.": "Gói Iana-Etc cung cấp dữ liệu cho các dịch vụ và giao thức mạng.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "4.8 MB": "4.8 MB",
+  "8.4.1. Installation of Iana-Etc": "8.4.1. Cài đặt Iana-Etc",
+  "For this package, we only need to copy the files into place:": "Với gói này, chúng ta chỉ cần sao chép các tệp vào đúng chỗ:",
+  "<a id=\"contents-iana-etc\" name=\"contents-iana-etc\"></a>8.4.2. Contents of Iana-Etc": "<a id=\"contents-iana-etc\" name=\"contents-iana-etc\"></a>8.4.2. Nội dung của Iana-Etc",
+  "Installed files:": "Tệp được cài:",
+  "/etc/protocols and /etc/services": "/etc/protocols và /etc/services",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"protocols\" name=\"protocols\"></a><span class=\"term\"><code class=\"filename\">/etc/protocols</code></span>": "<a id=\"protocols\" name=\"protocols\"></a><span class=\"term\"><code class=\"filename\">/etc/protocols</code></span>",
+  "Describes the various DARPA Internet protocols that are available from the TCP/IP subsystem": "Mô tả các giao thức DARPA Internet khác nhau có sẵn từ hệ con TCP/IP",
+  "<a id=\"services\" name=\"services\"></a><span class=\"term\"><code class=\"filename\">/etc/services</code></span>": "<a id=\"services\" name=\"services\"></a><span class=\"term\"><code class=\"filename\">/etc/services</code></span>",
+  "Provides a mapping between friendly textual names for internet services, and their underlying assigned port numbers and protocol types": "Ánh xạ giữa tên dạng văn bản dễ nhớ của các dịch vụ internet với số cổng và kiểu giao thức được gán cho chúng"
+}

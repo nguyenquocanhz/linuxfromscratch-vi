@@ -1,0 +1,22 @@
+{
+  "8.81. Sysklogd-2.7.2": "8.81. Sysklogd-2.7.2",
+  "<a id=\"ch-system-sysklogd\" name=\"ch-system-sysklogd\"></a>8.81. Sysklogd-2.7.2": "<a id=\"ch-system-sysklogd\" name=\"ch-system-sysklogd\"></a>8.81. Sysklogd-2.7.2",
+  "The Sysklogd package contains programs for logging system messages, such as those emitted by the kernel when unusual things happen.": "Gói Sysklogd chứa các chương trình ghi nhật ký thông điệp hệ thống, chẳng hạn những thông điệp kernel phát ra khi có sự cố bất thường.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "3.9 MB": "3.9 MB",
+  "8.81.1. Installation of Sysklogd": "8.81.1. Cài đặt Sysklogd",
+  "Prepare the package for compilation:": "Chuẩn bị biên dịch the package:",
+  "Compile the package:": "Biên dịch gói:",
+  "This package does not come with a test suite.": "Gói này không đi kèm bộ kiểm thử.",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"conf-sysklogd\" name=\"conf-sysklogd\"></a>8.81.2. Configuring Sysklogd": "<a id=\"conf-sysklogd\" name=\"conf-sysklogd\"></a>8.81.2. Configuring Sysklogd",
+  "Create a new <code class=\"filename\">/etc/syslog.conf</code> file by running the following:": "Tạo tệp <code class=\"filename\">/etc/syslog.conf</code> mới bằng cách chạy:",
+  "<a id=\"contents-sysklogd\" name=\"contents-sysklogd\"></a>8.81.3. Contents of Sysklogd": "<a id=\"contents-sysklogd\" name=\"contents-sysklogd\"></a>8.81.3. Nội dung của Sysklogd",
+  "Installed program:": "Chương trình được cài:",
+  "syslogd": "syslogd",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"syslogd\" name=\"syslogd\"></a><span class=\"term\"><span class=\"command\"><strong>syslogd</strong></span></span>": "<a id=\"syslogd\" name=\"syslogd\"></a><span class=\"term\"><span class=\"command\"><strong>syslogd</strong></span></span>",
+  "Logs the messages that system programs offer for logging [Every logged message contains at least a date stamp and a hostname, and normally the program's name too, but that depends on how trusting the logging daemon is told to be.]": "Ghi lại các thông điệp mà chương trình hệ thống gửi để ghi nhật ký [Mỗi thông điệp được ghi đều có ít nhất dấu thời gian và tên máy, thường kèm cả tên chương trình, nhưng điều đó tùy vào mức độ tin cậy mà daemon ghi nhật ký được cấu hình]."
+}

@@ -1,0 +1,20 @@
+[
+    "6.17. Binutils-2.45 - Pass 2",
+    "<a id=\"ch-tools-binutils-pass2\" name=\"ch-tools-binutils-pass2\"></a>6.17. Binutils-2.45 - Pass 2",
+    "The Binutils package contains a linker, an assembler, and other tools for handling object files.",
+    "Approximate build time:",
+    "0.4 SBU",
+    "Required disk space:",
+    "548 MB",
+    "6.17.1. Installation of Binutils",
+    "Binutils building system relies on an shipped libtool copy to link against internal static libraries, but the libiberty and zlib copies shipped in the package do not use libtool. This inconsistency may cause produced binaries mistakenly linked against libraries from the host distro. Work around this issue:",
+    "Create a separate build directory again:",
+    "Prepare Binutils for compilation:",
+    "<strong>The meaning of the new configure options:</strong>",
+    "Builds <code class=\"filename\">libbfd</code> as a shared library.",
+    "Enables 64-bit support (on hosts with smaller word sizes). This may not be needed on 64-bit systems, but it does no harm.",
+    "Compile the package:",
+    "Install the package:",
+    "Remove the libtool archive files because they are harmful for cross compilation, and remove unnecessary static libraries:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/binutils.html#contents-binutils\" title=\"8.20.2.&nbsp;Contents of Binutils\">Section&nbsp;8.20.2, “Contents of Binutils.”</a>"
+]

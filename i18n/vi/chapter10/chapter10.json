@@ -1,0 +1,9 @@
+{
+  "Chapter 10. Making the LFS System Bootable": "Chương 10. Làm cho hệ thống LFS khởi động được",
+  "<a id=\"chapter-bootable\" name=\"chapter-bootable\"></a>10. Making the LFS System Bootable": "<a id=\"chapter-bootable\" name=\"chapter-bootable\"></a>10. Làm cho hệ thống LFS khởi động được",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"fstab.html\">Creating the /etc/fstab File</a>": "<a href=\"fstab.html\">Tạo tệp /etc/fstab</a>",
+  "<a href=\"kernel.html\">Linux-6.16.1</a>": "<a href=\"kernel.html\">Linux-6.16.1</a>",
+  "<a href=\"grub.html\">Using GRUB to Set Up the Boot Process</a>": "<a href=\"grub.html\">Dùng GRUB để thiết lập quá trình khởi động</a>"
+}

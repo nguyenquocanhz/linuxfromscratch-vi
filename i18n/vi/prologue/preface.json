@@ -1,0 +1,14 @@
+{
+  "Preface": "Lời nói đầu",
+  "<a id=\"preface\" name=\"preface\"></a>Preface": "<a id=\"preface\" name=\"preface\"></a>Lời nói đầu",
+  "Table of Contents": "Mục lục",
+  "<a href=\"foreword.html\">Foreword</a>": "<a href=\"foreword.html\">Lời tựa</a>",
+  "<a href=\"audience.html\">Audience</a>": "<a href=\"audience.html\">Đối tượng độc giả</a>",
+  "<a href=\"architecture.html\">LFS Target Architectures</a>": "<a href=\"architecture.html\">Các kiến trúc đích của LFS</a>",
+  "<a href=\"prerequisites.html\">Prerequisites</a>": "<a href=\"prerequisites.html\">Kiến thức cần có</a>",
+  "<a href=\"standards.html\">LFS and Standards</a>": "<a href=\"standards.html\">LFS và các tiêu chuẩn</a>",
+  "<a href=\"package-choices.html\">Rationale for Packages in the Book</a>": "<a href=\"package-choices.html\">Lý do chọn các gói trong sách</a>",
+  "<a href=\"typography.html\">Typography</a>": "<a href=\"typography.html\">Quy ước trình bày</a>",
+  "<a href=\"organization.html\">Structure</a>": "<a href=\"organization.html\">Cấu trúc sách</a>",
+  "<a href=\"errata.html\">Errata and Security Advisories</a>": "<a href=\"errata.html\">Errata và thông báo bảo mật</a>"
+}

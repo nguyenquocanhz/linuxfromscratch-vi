@@ -1,0 +1,15 @@
+[
+    "8.53. Packaging-25.0",
+    "<a id=\"ch-system-packaging\" name=\"ch-system-packaging\"></a>8.53. Packaging-25.0",
+    "The packaging module is a Python library that provides utilities that implement the interoperability specifications which have clearly one correct behaviour (PEP440) or benefit greatly from having a single shared implementation (PEP425). This includes utilities for version handling, specifiers, markers, tags, and requirements.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "3.3 MB",
+    "8.53.1. Installation of Packaging",
+    "Compile packaging with the following command:",
+    "Install packaging with the following command:",
+    "<a id=\"contents-packaging\" name=\"contents-packaging\"></a>8.53.2. Contents of Packaging",
+    "Installed directories:",
+    "/usr/lib/python3.13/site-packages/packaging and /usr/lib/python3.13/site-packages/packaging-25.0.dist-info"
+]

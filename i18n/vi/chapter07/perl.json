@@ -1,0 +1,22 @@
+{
+  "7.9. Perl-5.42.0": "7.9. Perl-5.42.0",
+  "<a id=\"ch-tools-perl\" name=\"ch-tools-perl\"></a>7.9. Perl-5.42.0": "<a id=\"ch-tools-perl\" name=\"ch-tools-perl\"></a>7.9. Perl-5.42.0",
+  "The Perl package contains the Practical Extraction and Report Language.": "Gói Perl chứa Practical Extraction and Report Language (ngôn ngữ trích xuất và báo cáo thực dụng).",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.6 SBU": "0.6 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "295 MB": "295 MB",
+  "7.9.1. Installation of Perl": "7.9.1. Cài đặt Perl",
+  "Prepare Perl for compilation:": "Chuẩn bị biên dịch Perl:",
+  "<strong>The meaning of the Configure options:</strong>": "<strong>Ý nghĩa của các tùy chọn Configure:</strong>",
+  "This is a combination of three options: -d uses defaults for all items; -e ensures completion of all tasks; -s silences non-essential output.": "Đây là tổ hợp của ba tùy chọn: -d dùng giá trị mặc định cho mọi mục; -e đảm bảo hoàn tất mọi tác vụ; -s tắt các thông tin xuất không thiết yếu.",
+  "<span class=\"term\"><em class=\"parameter\"><code>-D vendorprefix=/usr</code></em></span>": "<span class=\"term\"><em class=\"parameter\"><code>-D vendorprefix=/usr</code></em></span>",
+  "This ensures <span class=\"command\"><strong>perl</strong></span> knows how to tell packages where they should install their Perl modules.": "Đảm bảo <span class=\"command\"><strong>perl</strong></span> biết cách chỉ cho các gói nơi cài các module Perl của chúng.",
+  "<span class=\"term\"><em class=\"parameter\"><code>-D useshrplib</code></em></span>": "<span class=\"term\"><em class=\"parameter\"><code>-D useshrplib</code></em></span>",
+  "Build <code class=\"systemitem\">libperl</code> needed by some Perl modules as a shared library, instead of a static library.": "Dựng <code class=\"systemitem\">libperl</code>, thứ một số module Perl cần, dưới dạng thư viện dùng chung thay vì thư viện tĩnh.",
+  "<span class=\"term\"><em class=\"parameter\"><code>-D privlib,-D archlib,-D sitelib,...</code></em></span>": "<span class=\"term\"><em class=\"parameter\"><code>-D privlib,-D archlib,-D sitelib,...</code></em></span>",
+  "These settings define where Perl looks for installed modules. The LFS editors chose to put them in a directory structure based on the MAJOR.MINOR version of Perl (5.42) which allows upgrading Perl to newer patch levels (the patch level is the last dot separated part in the full version string like 5.42.0) without reinstalling all of the modules.": "Các thiết lập này xác định nơi Perl tìm các module đã cài. Các biên tập viên LFS chọn đặt chúng trong cấu trúc thư mục dựa trên phiên bản MAJOR.MINOR của Perl (5.42), cho phép nâng cấp Perl lên các mức vá (patch level) mới hơn (mức vá là phần cuối phân tách bằng dấu chấm trong chuỗi phiên bản đầy đủ, như 5.42.0) mà không cần cài lại mọi module.",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/perl.html#contents-perl\" title=\"8.43.2.&nbsp;Contents of Perl\">Section&nbsp;8.43.2, “Contents of Perl.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/perl.html#contents-perl\" title=\"8.43.2.&nbsp;Contents of Perl\">Mục&nbsp;8.43.2, “Nội dung của Perl.”</a>"
+}

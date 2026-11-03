@@ -1,0 +1,16 @@
+{
+  "7.8. Bison-3.8.2": "7.8. Bison-3.8.2",
+  "<a id=\"ch-tools-bison\" name=\"ch-tools-bison\"></a>7.8. Bison-3.8.2": "<a id=\"ch-tools-bison\" name=\"ch-tools-bison\"></a>7.8. Bison-3.8.2",
+  "The Bison package contains a parser generator.": "Gói Bison chứa một trình sinh bộ phân tích cú pháp (parser generator).",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.2 SBU": "0.2 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "58 MB": "58 MB",
+  "7.8.1. Installation of Bison": "7.8.1. Cài đặt Bison",
+  "Prepare Bison for compilation:": "Chuẩn bị biên dịch Bison:",
+  "<strong>The meaning of the new configure option:</strong>": "<strong>Ý nghĩa của tùy chọn configure mới:</strong>",
+  "This tells the build system to install bison documentation into a versioned directory.": "Báo cho hệ thống build cài tài liệu của bison vào một thư mục có kèm phiên bản.",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/bison.html#contents-bison\" title=\"8.34.2.&nbsp;Contents of Bison\">Section&nbsp;8.34.2, “Contents of Bison.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/bison.html#contents-bison\" title=\"8.34.2.&nbsp;Contents of Bison\">Mục&nbsp;8.34.2, “Nội dung của Bison.”</a>"
+}

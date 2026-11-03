@@ -1,0 +1,15 @@
+[
+    "6.9. Gawk-5.3.2",
+    "<a id=\"ch-tools-gawk\" name=\"ch-tools-gawk\"></a>6.9. Gawk-5.3.2",
+    "The Gawk package contains programs for manipulating text files.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "49 MB",
+    "6.9.1. Installation of Gawk",
+    "First, ensure some unneeded files are not installed:",
+    "Prepare Gawk for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/gawk.html#contents-gawk\" title=\"8.61.2.&nbsp;Contents of Gawk\">Section&nbsp;8.61.2, “Contents of Gawk.”</a>"
+]

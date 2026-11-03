@@ -1,0 +1,20 @@
+{
+  "8.70. Patch-2.8": "8.70. Patch-2.8",
+  "<a id=\"ch-system-patch\" name=\"ch-system-patch\"></a>8.70. Patch-2.8": "<a id=\"ch-system-patch\" name=\"ch-system-patch\"></a>8.70. Patch-2.8",
+  "The Patch package contains a program for modifying or creating files by applying a <span class=\"quote\">“<span class=\"quote\">patch</span>”</span> file typically created by the <span class=\"command\"><strong>diff</strong></span> program.": "Gói Patch chứa chương trình để sửa đổi hoặc tạo tệp bằng cách áp dụng một tệp <span class=\"quote\">“<span class=\"quote\">patch</span>”</span> (bản vá), thường được tạo bởi chương trình <span class=\"command\"><strong>diff</strong></span>.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.2 SBU": "0.2 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "13 MB": "13 MB",
+  "8.70.1. Installation of Patch": "8.70.1. Cài đặt Patch",
+  "Prepare Patch for compilation:": "Chuẩn bị biên dịch Patch:",
+  "Compile the package:": "Biên dịch gói:",
+  "To test the results, issue:": "Để kiểm thử kết quả, chạy:",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-patch\" name=\"contents-patch\"></a>8.70.2. Contents of Patch": "<a id=\"contents-patch\" name=\"contents-patch\"></a>8.70.2. Nội dung của Patch",
+  "Installed program:": "Chương trình được cài:",
+  "patch": "patch",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"patch\" name=\"patch\"></a><span class=\"term\"><span class=\"command\"><strong>patch</strong></span></span>": "<a id=\"patch\" name=\"patch\"></a><span class=\"term\"><span class=\"command\"><strong>patch</strong></span></span>",
+  "Modifies files according to a patch file (A patch file is normally a difference listing created with the <span class=\"command\"><strong>diff</strong></span> program. By applying these differences to the original files, <span class=\"command\"><strong>patch</strong></span> creates the patched versions.)": "Sửa đổi các tệp theo một tệp patch (tệp patch thường là danh sách khác biệt do chương trình <span class=\"command\"><strong>diff</strong></span> tạo ra. Bằng cách áp dụng các khác biệt này lên tệp gốc, <span class=\"command\"><strong>patch</strong></span> tạo ra các phiên bản đã được vá.)"
+}

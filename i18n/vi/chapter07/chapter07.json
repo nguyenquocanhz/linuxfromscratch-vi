@@ -1,0 +1,18 @@
+{
+  "Chapter 7. Entering Chroot and Building Additional Temporary Tools": "Chương 7. Vào Chroot và dựng thêm các công cụ tạm",
+  "<a id=\"chapter-chroot-temporary-tools\" name=\"chapter-chroot-temporary-tools\"></a>7. Entering Chroot and Building Additional Temporary Tools": "<a id=\"chapter-chroot-temporary-tools\" name=\"chapter-chroot-temporary-tools\"></a>7. Vào Chroot và dựng thêm các công cụ tạm",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"changingowner.html\">Changing Ownership</a>": "<a href=\"changingowner.html\">Đổi chủ sở hữu</a>",
+  "<a href=\"kernfs.html\">Preparing Virtual Kernel File Systems</a>": "<a href=\"kernfs.html\">Chuẩn bị các hệ thống tệp ảo của kernel</a>",
+  "<a href=\"chroot.html\">Entering the Chroot Environment</a>": "<a href=\"chroot.html\">Vào môi trường chroot</a>",
+  "<a href=\"creatingdirs.html\">Creating Directories</a>": "<a href=\"creatingdirs.html\">Tạo các thư mục</a>",
+  "<a href=\"createfiles.html\">Creating Essential Files and Symlinks</a>": "<a href=\"createfiles.html\">Tạo các tệp thiết yếu và symlink</a>",
+  "<a href=\"gettext.html\">Gettext-0.26</a>": "<a href=\"gettext.html\">Gettext-0.26</a>",
+  "<a href=\"bison.html\">Bison-3.8.2</a>": "<a href=\"bison.html\">Bison-3.8.2</a>",
+  "<a href=\"perl.html\">Perl-5.42.0</a>": "<a href=\"perl.html\">Perl-5.42.0</a>",
+  "<a href=\"Python.html\">Python-3.13.7</a>": "<a href=\"Python.html\">Python-3.13.7</a>",
+  "<a href=\"texinfo.html\">Texinfo-7.2</a>": "<a href=\"texinfo.html\">Texinfo-7.2</a>",
+  "<a href=\"util-linux.html\">Util-linux-2.41.1</a>": "<a href=\"util-linux.html\">Util-linux-2.41.1</a>",
+  "<a href=\"cleanup.html\">Cleaning up and Saving the Temporary System</a>": "<a href=\"cleanup.html\">Dọn dẹp và lưu lại hệ thống tạm</a>"
+}

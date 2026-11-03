@@ -1,0 +1,14 @@
+{
+  "6.12. Make-4.4.1": "6.12. Make-4.4.1",
+  "<a id=\"ch-tools-make\" name=\"ch-tools-make\"></a>6.12. Make-4.4.1": "<a id=\"ch-tools-make\" name=\"ch-tools-make\"></a>6.12. Make-4.4.1",
+  "The Make package contains a program for controlling the generation of executables and other non-source files of a package from source files.": "Gói Make chứa chương trình điều khiển việc tạo ra các tệp thực thi và các tệp không phải mã nguồn khác của một gói từ mã nguồn.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "15 MB": "15 MB",
+  "6.12.1. Installation of Make": "6.12.1. Cài đặt Make",
+  "Prepare Make for compilation:": "Chuẩn bị biên dịch Make:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/make.html#contents-make\" title=\"8.69.2.&nbsp;Contents of Make\">Section&nbsp;8.69.2, “Contents of Make.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/make.html#contents-make\" title=\"8.69.2.&nbsp;Contents of Make\">Mục&nbsp;8.69.2, “Nội dung của Make.”</a>"
+}

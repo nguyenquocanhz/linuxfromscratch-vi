@@ -1,0 +1,22 @@
+{
+  "8.39. Gperf-3.3": "8.39. Gperf-3.3",
+  "<a id=\"ch-system-gperf\" name=\"ch-system-gperf\"></a>8.39. Gperf-3.3": "<a id=\"ch-system-gperf\" name=\"ch-system-gperf\"></a>8.39. Gperf-3.3",
+  "Gperf generates a perfect hash function from a key set.": "Gperf sinh ra hàm băm hoàn hảo (perfect hash) từ một tập khóa.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.2 SBU": "0.2 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "12 MB": "12 MB",
+  "8.39.1. Installation of Gperf": "8.39.1. Cài đặt Gperf",
+  "Prepare Gperf for compilation:": "Chuẩn bị biên dịch Gperf:",
+  "Compile the package:": "Biên dịch gói:",
+  "To test the results, issue:": "Để kiểm thử kết quả, chạy:",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-gperf\" name=\"contents-gperf\"></a>8.39.2. Contents of Gperf": "<a id=\"contents-gperf\" name=\"contents-gperf\"></a>8.39.2. Nội dung của Gperf",
+  "Installed program:": "Chương trình được cài:",
+  "gperf": "gperf",
+  "Installed directory:": "Thư mục được cài:",
+  "/usr/share/doc/gperf-3.3": "/usr/share/doc/gperf-3.3",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"gperf\" name=\"gperf\"></a><span class=\"term\"><span class=\"command\"><strong>gperf</strong></span></span>": "<a id=\"gperf\" name=\"gperf\"></a><span class=\"term\"><span class=\"command\"><strong>gperf</strong></span></span>",
+  "Generates a perfect hash from a key set": "Sinh ra hàm băm hoàn hảo từ một tập khóa"
+}

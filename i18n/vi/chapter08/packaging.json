@@ -1,0 +1,15 @@
+{
+  "8.53. Packaging-25.0": "8.53. Packaging-25.0",
+  "<a id=\"ch-system-packaging\" name=\"ch-system-packaging\"></a>8.53. Packaging-25.0": "<a id=\"ch-system-packaging\" name=\"ch-system-packaging\"></a>8.53. Packaging-25.0",
+  "The packaging module is a Python library that provides utilities that implement the interoperability specifications which have clearly one correct behaviour (PEP440) or benefit greatly from having a single shared implementation (PEP425). This includes utilities for version handling, specifiers, markers, tags, and requirements.": "Module packaging là thư viện Python cung cấp các tiện ích cài đặt các đặc tả về khả năng tương tác vốn có một cách hành xử đúng rõ ràng (PEP440) hoặc hưởng lợi lớn từ việc có một bản cài đặt dùng chung duy nhất (PEP425). Gồm các tiện ích xử lý phiên bản, specifier, marker, tag và requirement.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "3.3 MB": "3.3 MB",
+  "8.53.1. Installation of Packaging": "8.53.1. Cài đặt Packaging",
+  "Compile packaging with the following command:": "Biên dịch packaging bằng lệnh sau:",
+  "Install packaging with the following command:": "Cài đặt packaging bằng lệnh sau:",
+  "<a id=\"contents-packaging\" name=\"contents-packaging\"></a>8.53.2. Contents of Packaging": "<a id=\"contents-packaging\" name=\"contents-packaging\"></a>8.53.2. Nội dung của Packaging",
+  "Installed directories:": "Thư mục được cài:",
+  "/usr/lib/python3.13/site-packages/packaging and /usr/lib/python3.13/site-packages/packaging-25.0.dist-info": "/usr/lib/python3.13/site-packages/packaging và /usr/lib/python3.13/site-packages/packaging-25.0.dist-info"
+}

@@ -1,0 +1,14 @@
+{
+  "Chapter 9. System Configuration": "Chương 9. Cấu hình hệ thống",
+  "<a id=\"chapter-config\" name=\"chapter-config\"></a>9. System Configuration": "<a id=\"chapter-config\" name=\"chapter-config\"></a>9. System Configuration",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"bootscripts.html\">LFS-Bootscripts-20250827</a>": "<a href=\"bootscripts.html\">LFS-Bootscripts-20250827</a>",
+  "<a href=\"udev.html\">Overview of Device and Module Handling</a>": "<a href=\"udev.html\">Tổng quan về xử lý thiết bị và module</a>",
+  "<a href=\"symlinks.html\">Managing Devices</a>": "<a href=\"symlinks.html\">Quản lý thiết bị</a>",
+  "<a href=\"network.html\">General Network Configuration</a>": "<a href=\"network.html\">Cấu hình mạng chung</a>",
+  "<a href=\"usage.html\">System V Bootscript Usage and Configuration</a>": "<a href=\"usage.html\">Cách dùng và cấu hình bootscript System V</a>",
+  "<a href=\"locale.html\">Configuring the System Locale</a>": "<a href=\"locale.html\">Cấu hình locale hệ thống</a>",
+  "<a href=\"inputrc.html\">Creating the /etc/inputrc File</a>": "<a href=\"inputrc.html\">Tạo tệp /etc/inputrc</a>",
+  "<a href=\"etcshells.html\">Creating the /etc/shells File</a>": "<a href=\"etcshells.html\">Tạo tệp /etc/shells</a>"
+}

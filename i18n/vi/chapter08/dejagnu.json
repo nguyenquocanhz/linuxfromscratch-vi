@@ -1,0 +1,22 @@
+{
+  "8.18. DejaGNU-1.6.3": "8.18. DejaGNU-1.6.3",
+  "<a id=\"ch-system-dejagnu\" name=\"ch-system-dejagnu\"></a>8.18. DejaGNU-1.6.3": "<a id=\"ch-system-dejagnu\" name=\"ch-system-dejagnu\"></a>8.18. DejaGNU-1.6.3",
+  "The <span class=\"application\">DejaGnu</span> package contains a framework for running test suites on GNU tools. It is written in <span class=\"command\"><strong>expect</strong></span>, which itself uses <span class=\"application\">Tcl</span> (Tool Command Language).": "Gói <span class=\"application\">DejaGnu</span> chứa một framework để chạy các bộ kiểm thử cho công cụ GNU. Nó được viết bằng <span class=\"command\"><strong>expect</strong></span>, vốn dùng <span class=\"application\">Tcl</span> (Tool Command Language).",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "6.9 MB": "6.9 MB",
+  "8.18.1. Installation of DejaGNU": "8.18.1. Cài đặt DejaGNU",
+  "The upstream recommends building DejaGNU in a dedicated build directory:": "Upstream khuyến nghị dựng DejaGNU trong một thư mục build riêng:",
+  "Prepare DejaGNU for compilation:": "Chuẩn bị biên dịch DejaGNU:",
+  "To test the results, issue:": "Để kiểm thử kết quả, chạy:",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-dejagnu\" name=\"contents-dejagnu\"></a>8.18.2. Contents of DejaGNU": "<a id=\"contents-dejagnu\" name=\"contents-dejagnu\"></a>8.18.2. Nội dung của DejaGNU",
+  "Installed program:": "Chương trình được cài:",
+  "dejagnu and runtest": "dejagnu và runtest",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"dejagnu\" name=\"dejagnu\"></a><span class=\"term\"><span class=\"command\"><strong>dejagnu</strong></span></span>": "<a id=\"dejagnu\" name=\"dejagnu\"></a><span class=\"term\"><span class=\"command\"><strong>dejagnu</strong></span></span>",
+  "DejaGNU auxiliary command launcher": "Trình khởi chạy lệnh phụ trợ của DejaGNU",
+  "<a id=\"runtest\" name=\"runtest\"></a><span class=\"term\"><span class=\"command\"><strong>runtest</strong></span></span>": "<a id=\"runtest\" name=\"runtest\"></a><span class=\"term\"><span class=\"command\"><strong>runtest</strong></span></span>",
+  "A wrapper script that locates the proper <span class=\"command\"><strong>expect</strong></span> shell and then runs DejaGNU": "Một script bao bọc, tìm shell <span class=\"command\"><strong>expect</strong></span> phù hợp rồi chạy DejaGNU"
+}

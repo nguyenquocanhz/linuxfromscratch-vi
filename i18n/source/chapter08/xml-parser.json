@@ -1,0 +1,20 @@
+[
+    "8.44. XML::Parser-2.47",
+    "<a id=\"ch-system-xml-parser\" name=\"ch-system-xml-parser\"></a>8.44. XML::Parser-2.47",
+    "The XML::Parser module is a Perl interface to James Clark's XML parser, Expat.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "2.4 MB",
+    "8.44.1. Installation of XML::Parser",
+    "Prepare XML::Parser for compilation:",
+    "Compile the package:",
+    "To test the results, issue:",
+    "Install the package:",
+    "<a id=\"contents-xml-parser\" name=\"contents-xml-parser\"></a>8.44.2. Contents of XML::Parser",
+    "Installed module:",
+    "Expat.so",
+    "Short Descriptions",
+    "<a id=\"Expat\" name=\"Expat\"></a><span class=\"term\"><code class=\"filename\">Expat</code></span>",
+    "provides the Perl Expat interface"
+]

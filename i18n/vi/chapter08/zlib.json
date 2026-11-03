@@ -1,0 +1,21 @@
+{
+  "8.6. Zlib-1.3.1": "8.6. Zlib-1.3.1",
+  "<a id=\"ch-system-zlib\" name=\"ch-system-zlib\"></a>8.6. Zlib-1.3.1": "<a id=\"ch-system-zlib\" name=\"ch-system-zlib\"></a>8.6. Zlib-1.3.1",
+  "The Zlib package contains compression and decompression routines used by some programs.": "Gói Zlib chứa các hàm nén và giải nén được một số chương trình sử dụng.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "6.4 MB": "6.4 MB",
+  "8.6.1. Installation of Zlib": "8.6.1. Cài đặt Zlib",
+  "Prepare Zlib for compilation:": "Chuẩn bị biên dịch Zlib:",
+  "Compile the package:": "Biên dịch gói:",
+  "To test the results, issue:": "Để kiểm thử kết quả, chạy:",
+  "Install the package:": "Cài đặt gói:",
+  "Remove a useless static library:": "Xóa một thư viện tĩnh vô dụng:",
+  "<a id=\"contents-zlib\" name=\"contents-zlib\"></a>8.6.2. Contents of Zlib": "<a id=\"contents-zlib\" name=\"contents-zlib\"></a>8.6.2. Nội dung của Zlib",
+  "Installed libraries:": "Thư viện được cài:",
+  "libz.so": "libz.so",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"libz\" name=\"libz\"></a><span class=\"term\"><code class=\"filename\">libz</code></span>": "<a id=\"libz\" name=\"libz\"></a><span class=\"term\"><code class=\"filename\">libz</code></span>",
+  "Contains compression and decompression functions used by some programs": "Chứa các hàm nén và giải nén được một số chương trình sử dụng"
+}

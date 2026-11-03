@@ -1,0 +1,14 @@
+{
+  "6.13. Patch-2.8": "6.13. Patch-2.8",
+  "<a id=\"ch-tools-patch\" name=\"ch-tools-patch\"></a>6.13. Patch-2.8": "<a id=\"ch-tools-patch\" name=\"ch-tools-patch\"></a>6.13. Patch-2.8",
+  "The Patch package contains a program for modifying or creating files by applying a <span class=\"quote\">“<span class=\"quote\">patch</span>”</span> file typically created by the <span class=\"command\"><strong>diff</strong></span> program.": "Gói Patch chứa một chương trình để sửa đổi hoặc tạo tệp bằng cách áp dụng tệp <span class=\"quote\">“<span class=\"quote\">patch</span>”</span> (bản vá), thường được tạo bởi chương trình <span class=\"command\"><strong>diff</strong></span>.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "14 MB": "14 MB",
+  "6.13.1. Installation of Patch": "6.13.1. Cài đặt Patch",
+  "Prepare Patch for compilation:": "Chuẩn bị biên dịch Patch:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/patch.html#contents-patch\" title=\"8.70.2.&nbsp;Contents of Patch\">Section&nbsp;8.70.2, “Contents of Patch.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/patch.html#contents-patch\" title=\"8.70.2.&nbsp;Contents of Patch\">Mục&nbsp;8.70.2, “Nội dung của Patch.”</a>"
+}

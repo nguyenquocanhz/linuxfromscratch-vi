@@ -1,0 +1,20 @@
+[
+    "8.68. Libpipeline-1.5.8",
+    "<a id=\"ch-system-libpipeline\" name=\"ch-system-libpipeline\"></a>8.68. Libpipeline-1.5.8",
+    "The Libpipeline package contains a library for manipulating pipelines of subprocesses in a flexible and convenient way.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "10 MB",
+    "8.68.1. Installation of Libpipeline",
+    "Prepare Libpipeline for compilation:",
+    "Compile the package:",
+    "The tests require the <span class=\"application\">Check</span> library that we've removed from LFS.",
+    "Install the package:",
+    "<a id=\"contents-libpipeline\" name=\"contents-libpipeline\"></a>8.68.2. Contents of Libpipeline",
+    "Installed library:",
+    "libpipeline.so",
+    "Short Descriptions",
+    "<a id=\"libpipeline\" name=\"libpipeline\"></a><span class=\"term\"><code class=\"filename\">libpipeline</code></span>",
+    "This library is used to safely construct pipelines between subprocesses"
+]

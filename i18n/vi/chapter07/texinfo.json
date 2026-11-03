@@ -1,0 +1,14 @@
+{
+  "7.11. Texinfo-7.2": "7.11. Texinfo-7.2",
+  "<a id=\"ch-tools-texinfo\" name=\"ch-tools-texinfo\"></a>7.11. Texinfo-7.2": "<a id=\"ch-tools-texinfo\" name=\"ch-tools-texinfo\"></a>7.11. Texinfo-7.2",
+  "The Texinfo package contains programs for reading, writing, and converting info pages.": "Gói Texinfo chứa các chương trình để đọc, viết và chuyển đổi các trang info.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.2 SBU": "0.2 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "152 MB": "152 MB",
+  "7.11.1. Installation of Texinfo": "7.11.1. Cài đặt Texinfo",
+  "Prepare Texinfo for compilation:": "Chuẩn bị biên dịch Texinfo:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/texinfo.html#contents-texinfo\" title=\"8.72.2.&nbsp;Contents of Texinfo\">Section&nbsp;8.72.2, “Contents of Texinfo.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/texinfo.html#contents-texinfo\" title=\"8.72.2.&nbsp;Contents of Texinfo\">Mục&nbsp;8.72.2, “Nội dung của Texinfo.”</a>"
+}

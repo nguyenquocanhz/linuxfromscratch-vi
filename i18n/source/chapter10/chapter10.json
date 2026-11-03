@@ -1,0 +1,9 @@
+[
+    "Chapter 10. Making the LFS System Bootable",
+    "<a id=\"chapter-bootable\" name=\"chapter-bootable\"></a>10. Making the LFS System Bootable",
+    "Table of Contents",
+    "<a href=\"introduction.html\">Introduction</a>",
+    "<a href=\"fstab.html\">Creating the /etc/fstab File</a>",
+    "<a href=\"kernel.html\">Linux-6.16.1</a>",
+    "<a href=\"grub.html\">Using GRUB to Set Up the Boot Process</a>"
+]

@@ -1,0 +1,20 @@
+{
+  "8.54. Wheel-0.46.1": "8.54. Wheel-0.46.1",
+  "<a id=\"ch-system-wheel\" name=\"ch-system-wheel\"></a>8.54. Wheel-0.46.1": "<a id=\"ch-system-wheel\" name=\"ch-system-wheel\"></a>8.54. Wheel-0.46.1",
+  "Wheel is a Python library that is the reference implementation of the Python wheel packaging standard.": "Wheel là một thư viện Python, là bản cài đặt tham chiếu của chuẩn đóng gói wheel trong Python.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "608 KB": "608 KB",
+  "8.54.1. Installation of Wheel": "8.54.1. Cài đặt Wheel",
+  "Compile Wheel with the following command:": "Biên dịch Wheel bằng lệnh sau:",
+  "Install Wheel with the following command:": "Cài đặt Wheel bằng lệnh sau:",
+  "<a id=\"contents-wheel\" name=\"contents-wheel\"></a>8.54.2. Contents of Wheel": "<a id=\"contents-wheel\" name=\"contents-wheel\"></a>8.54.2. Nội dung của Wheel",
+  "Installed program:": "Chương trình được cài:",
+  "wheel": "wheel",
+  "Installed directories:": "Thư mục được cài:",
+  "/usr/lib/python3.13/site-packages/wheel and /usr/lib/python3.13/site-packages/wheel-0.46.1.dist-info": "/usr/lib/python3.13/site-packages/wheel và /usr/lib/python3.13/site-packages/wheel-0.46.1.dist-info",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"wheel-wheel\" name=\"wheel-wheel\"></a><span class=\"term\"><span class=\"command\"><strong>wheel</strong></span></span>": "<a id=\"wheel-wheel\" name=\"wheel-wheel\"></a><span class=\"term\"><span class=\"command\"><strong>wheel</strong></span></span>",
+  "is a utility to unpack, pack, or convert wheel archives": "là tiện ích để giải nén, đóng gói hoặc chuyển đổi các kho wheel"
+}

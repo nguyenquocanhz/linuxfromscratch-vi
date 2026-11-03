@@ -1,0 +1,18 @@
+[
+    "9.1. Introduction",
+    "<a id=\"ch-config-introduction\" name=\"ch-config-introduction\"></a>9.1. Introduction",
+    "Booting a Linux system involves several tasks. The process must mount both virtual and real file systems, initialize devices, check file systems for integrity, mount and activate any swap partitions or files, set the system clock, bring up networking, start any daemons required by the system, and accomplish any other custom tasks specified by the user. This process must be organized to ensure the tasks are performed in the correct order and executed as quickly as possible.",
+    "<a id=\"sysv-desc\" name=\"sysv-desc\"></a>9.1.1. System V",
+    "System V is the classic boot process that has been used in Unix and Unix-like systems such as Linux since about 1983. It consists of a small program, <span class=\"command\"><strong>init</strong></span>, that sets up basic processes such as <span class=\"command\"><strong>login</strong></span> (via getty) and runs a script. This script, usually named <span class=\"command\"><strong>rc</strong></span>, controls the execution of a set of additional scripts that perform the tasks required to initialize the system.",
+    "The <span class=\"command\"><strong>init</strong></span> program is controlled by the <code class=\"filename\">/etc/inittab</code> file and is organized into run levels that can be chosen by the user. In LFS, they are used as follows:",
+    "0&nbsp;—&nbsp;halt<br> 1&nbsp;—&nbsp;Single&nbsp;user&nbsp;mode<br> 2&nbsp;—&nbsp;User&nbsp;definable<br> 3&nbsp;—&nbsp;Full&nbsp;multiuser&nbsp;mode<br> 4&nbsp;—&nbsp;User&nbsp;definable<br> 5&nbsp;—&nbsp;Full&nbsp;multiuser&nbsp;mode&nbsp;with&nbsp;display&nbsp;manager<br> 6&nbsp;—&nbsp;reboot",
+    "The usual default run level is 3 or 5.",
+    "Advantages",
+    "Established, well understood system.",
+    "Easy to customize.",
+    "Disadvantages",
+    "May be slower to boot. A medium speed base LFS system takes 8-12 seconds where the boot time is measured from the first kernel message to the login prompt. Network connectivity is typically established about 2 seconds after the login prompt.",
+    "Serial processing of boot tasks. This is related to the previous point. A delay in any process, such as a file system check, will delay the entire boot process.",
+    "Does not directly support advanced features like control groups (cgroups) and per-user fair share scheduling.",
+    "Adding scripts requires manual, static sequencing decisions."
+]

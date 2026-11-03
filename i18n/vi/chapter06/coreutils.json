@@ -1,0 +1,17 @@
+{
+  "6.5. Coreutils-9.7": "6.5. Coreutils-9.7",
+  "<a id=\"ch-tools-coreutils\" name=\"ch-tools-coreutils\"></a>6.5. Coreutils-9.7": "<a id=\"ch-tools-coreutils\" name=\"ch-tools-coreutils\"></a>6.5. Coreutils-9.7",
+  "The Coreutils package contains the basic utility programs needed by every operating system.": "Gói Coreutils chứa các chương trình tiện ích cơ bản mà hệ điều hành nào cũng cần.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.3 SBU": "0.3 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "181 MB": "181 MB",
+  "6.5.1. Installation of Coreutils": "6.5.1. Cài đặt Coreutils",
+  "Prepare Coreutils for compilation:": "Chuẩn bị biên dịch Coreutils:",
+  "<strong>The meaning of the configure options:</strong>": "<strong>Ý nghĩa các tùy chọn configure:</strong>",
+  "This enables the <span class=\"command\"><strong>hostname</strong></span> binary to be built and installed – it is disabled by default but is required by the Perl test suite.": "Cho phép dựng và cài tệp nhị phân <span class=\"command\"><strong>hostname</strong></span> – mặc định nó bị tắt nhưng bộ kiểm thử của Perl lại cần đến.",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Move programs to their final expected locations. Although this is not necessary in this temporary environment, we must do so because some programs hardcode executable locations:": "Di chuyển các chương trình tới vị trí cuối cùng mà hệ thống mong đợi. Dù trong môi trường tạm này việc đó không cần thiết, ta vẫn phải làm vì một số chương trình mã hóa cứng vị trí của các tệp thực thi:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/coreutils.html#contents-coreutils\" title=\"8.59.2.&nbsp;Contents of Coreutils\">Section&nbsp;8.59.2, “Contents of Coreutils.”</a>": "Chi tiết về gói này có ở <a class=\"xref\" href=\"../chapter08/coreutils.html#contents-coreutils\" title=\"8.59.2.&nbsp;Contents of Coreutils\">Mục&nbsp;8.59.2, “Contents of Coreutils.”</a>"
+}

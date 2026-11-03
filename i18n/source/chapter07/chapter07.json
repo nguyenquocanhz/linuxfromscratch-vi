@@ -1,0 +1,18 @@
+[
+    "Chapter 7. Entering Chroot and Building Additional Temporary Tools",
+    "<a id=\"chapter-chroot-temporary-tools\" name=\"chapter-chroot-temporary-tools\"></a>7. Entering Chroot and Building Additional Temporary Tools",
+    "Table of Contents",
+    "<a href=\"introduction.html\">Introduction</a>",
+    "<a href=\"changingowner.html\">Changing Ownership</a>",
+    "<a href=\"kernfs.html\">Preparing Virtual Kernel File Systems</a>",
+    "<a href=\"chroot.html\">Entering the Chroot Environment</a>",
+    "<a href=\"creatingdirs.html\">Creating Directories</a>",
+    "<a href=\"createfiles.html\">Creating Essential Files and Symlinks</a>",
+    "<a href=\"gettext.html\">Gettext-0.26</a>",
+    "<a href=\"bison.html\">Bison-3.8.2</a>",
+    "<a href=\"perl.html\">Perl-5.42.0</a>",
+    "<a href=\"Python.html\">Python-3.13.7</a>",
+    "<a href=\"texinfo.html\">Texinfo-7.2</a>",
+    "<a href=\"util-linux.html\">Util-linux-2.41.1</a>",
+    "<a href=\"cleanup.html\">Cleaning up and Saving the Temporary System</a>"
+]

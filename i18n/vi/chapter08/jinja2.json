@@ -1,0 +1,15 @@
+{
+  "8.75. Jinja2-3.1.6": "8.75. Jinja2-3.1.6",
+  "<a id=\"ch-system-jinja2\" name=\"ch-system-jinja2\"></a>8.75. Jinja2-3.1.6": "<a id=\"ch-system-jinja2\" name=\"ch-system-jinja2\"></a>8.75. Jinja2-3.1.6",
+  "Jinja2 is a Python module that implements a simple pythonic template language.": "Jinja2 là một module Python cài đặt một ngôn ngữ mẫu (template) đơn giản theo phong cách Python.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "less than 0.1 SBU": "dưới 0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "2.6 MB": "2.6 MB",
+  "8.75.1. Installation of Jinja2": "8.75.1. Cài đặt Jinja2",
+  "Build the package:": "Dựng gói:",
+  "Install the package:": "Cài đặt gói:",
+  "<a id=\"contents-jinja2\" name=\"contents-jinja2\"></a>8.75.2. Contents of Jinja2": "<a id=\"contents-jinja2\" name=\"contents-jinja2\"></a>8.75.2. Nội dung của Jinja2",
+  "Installed directory:": "Thư mục được cài:",
+  "/usr/lib/python3.13/site-packages/Jinja2-3.1.6.dist-info": "/usr/lib/python3.13/site-packages/Jinja2-3.1.6.dist-info"
+}

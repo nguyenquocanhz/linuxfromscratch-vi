@@ -1,0 +1,14 @@
+[
+    "6.8. Findutils-4.10.0",
+    "<a id=\"ch-tools-findutils\" name=\"ch-tools-findutils\"></a>6.8. Findutils-4.10.0",
+    "The Findutils package contains programs to find files. Programs are provided to search through all the files in a directory tree and to create, maintain, and search a database (often faster than the recursive find, but unreliable unless the database has been updated recently). Findutils also supplies the <span class=\"command\"><strong>xargs</strong></span> program, which can be used to run a specified command on each file selected by a search.",
+    "Approximate build time:",
+    "0.2 SBU",
+    "Required disk space:",
+    "48 MB",
+    "6.8.1. Installation of Findutils",
+    "Prepare Findutils for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/findutils.html#contents-findutils\" title=\"8.62.2.&nbsp;Contents of Findutils\">Section&nbsp;8.62.2, “Contents of Findutils.”</a>"
+]

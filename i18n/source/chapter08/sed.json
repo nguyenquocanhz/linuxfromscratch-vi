@@ -1,0 +1,22 @@
+[
+    "8.31. Sed-4.9",
+    "<a id=\"ch-system-sed\" name=\"ch-system-sed\"></a>8.31. Sed-4.9",
+    "The Sed package contains a stream editor.",
+    "Approximate build time:",
+    "0.3 SBU",
+    "Required disk space:",
+    "30 MB",
+    "8.31.1. Installation of Sed",
+    "Prepare Sed for compilation:",
+    "Compile the package and generate the HTML documentation:",
+    "To test the results, issue:",
+    "Install the package and its documentation:",
+    "<a id=\"contents-sed\" name=\"contents-sed\"></a>8.31.2. Contents of Sed",
+    "Installed program:",
+    "sed",
+    "Installed directory:",
+    "/usr/share/doc/sed-4.9",
+    "Short Descriptions",
+    "<a id=\"sed\" name=\"sed\"></a><span class=\"term\"><span class=\"command\"><strong>sed</strong></span></span>",
+    "Filters and transforms text files in a single pass"
+]

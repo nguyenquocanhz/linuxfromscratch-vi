@@ -1,0 +1,18 @@
+{
+  "6.7. File-5.46": "6.7. File-5.46",
+  "<a id=\"ch-tools-file\" name=\"ch-tools-file\"></a>6.7. File-5.46": "<a id=\"ch-tools-file\" name=\"ch-tools-file\"></a>6.7. File-5.46",
+  "The File package contains a utility for determining the type of a given file or files.": "Gói File chứa một tiện ích để xác định loại của một hoặc nhiều tệp.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "42 MB": "42 MB",
+  "6.7.1. Installation of File": "6.7.1. Cài đặt File",
+  "The <span class=\"command\"><strong>file</strong></span> command on the build host needs to be the same version as the one we are building in order to create the signature file. Run the following commands to make a temporary copy of the <span class=\"command\"><strong>file</strong></span> command:": "Lệnh <span class=\"command\"><strong>file</strong></span> trên máy host build phải cùng phiên bản với bản chúng ta sắp dựng thì mới tạo được tệp signature. Chạy các lệnh sau để tạo một bản sao tạm của lệnh <span class=\"command\"><strong>file</strong></span>:",
+  "<strong>The meaning of the new configure option:</strong>": "<strong>Ý nghĩa của tùy chọn configure mới:</strong>",
+  "The configuration script attempts to use some packages from the host distribution if the corresponding library files exist. It may cause compilation failure if a library file exists, but the corresponding header files do not. These options prevent using these unneeded capabilities from the host.": "Script configure cố gắng dùng một số gói của bản phân phối host nếu thấy các tệp thư viện tương ứng. Việc này có thể làm biên dịch thất bại khi tệp thư viện tồn tại nhưng tệp header tương ứng thì không. Các tùy chọn này ngăn script dùng những tính năng không cần thiết từ host.",
+  "Prepare File for compilation:": "Chuẩn bị biên dịch File:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Remove the libtool archive file because it is harmful for cross compilation:": "Xóa tệp lưu trữ libtool vì nó gây hại khi biên dịch chéo:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/file.html#contents-file\" title=\"8.11.2.&nbsp;Contents of File\">Section&nbsp;8.11.2, “Contents of File.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/file.html#contents-file\" title=\"8.11.2.&nbsp;Contents of File\">Mục&nbsp;8.11.2, “Nội dung của File.”</a>"
+}

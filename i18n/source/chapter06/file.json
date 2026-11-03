@@ -1,0 +1,18 @@
+[
+    "6.7. File-5.46",
+    "<a id=\"ch-tools-file\" name=\"ch-tools-file\"></a>6.7. File-5.46",
+    "The File package contains a utility for determining the type of a given file or files.",
+    "Approximate build time:",
+    "0.1 SBU",
+    "Required disk space:",
+    "42 MB",
+    "6.7.1. Installation of File",
+    "The <span class=\"command\"><strong>file</strong></span> command on the build host needs to be the same version as the one we are building in order to create the signature file. Run the following commands to make a temporary copy of the <span class=\"command\"><strong>file</strong></span> command:",
+    "<strong>The meaning of the new configure option:</strong>",
+    "The configuration script attempts to use some packages from the host distribution if the corresponding library files exist. It may cause compilation failure if a library file exists, but the corresponding header files do not. These options prevent using these unneeded capabilities from the host.",
+    "Prepare File for compilation:",
+    "Compile the package:",
+    "Install the package:",
+    "Remove the libtool archive file because it is harmful for cross compilation:",
+    "Details on this package are located in <a class=\"xref\" href=\"../chapter08/file.html#contents-file\" title=\"8.11.2.&nbsp;Contents of File\">Section&nbsp;8.11.2, “Contents of File.”</a>"
+]

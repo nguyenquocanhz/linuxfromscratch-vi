@@ -1,0 +1,14 @@
+{
+  "6.15. Tar-1.35": "6.15. Tar-1.35",
+  "<a id=\"ch-tools-tar\" name=\"ch-tools-tar\"></a>6.15. Tar-1.35": "<a id=\"ch-tools-tar\" name=\"ch-tools-tar\"></a>6.15. Tar-1.35",
+  "The Tar package provides the ability to create tar archives as well as perform various other kinds of archive manipulation. Tar can be used on previously created archives to extract files, to store additional files, or to update or list files which were already stored.": "Gói Tar cho phép tạo các kho lưu trữ tar cũng như thực hiện nhiều thao tác khác trên kho lưu trữ. Tar có thể dùng trên kho đã tạo trước đó để giải nén tệp, thêm tệp mới vào, hoặc cập nhật và liệt kê các tệp đã lưu.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "42 MB": "42 MB",
+  "6.15.1. Installation of Tar": "6.15.1. Cài đặt Tar",
+  "Prepare Tar for compilation:": "Chuẩn bị biên dịch Tar:",
+  "Compile the package:": "Biên dịch gói:",
+  "Install the package:": "Cài đặt gói:",
+  "Details on this package are located in <a class=\"xref\" href=\"../chapter08/tar.html#contents-tar\" title=\"8.71.2.&nbsp;Contents of Tar\">Section&nbsp;8.71.2, “Contents of Tar.”</a>": "Chi tiết về gói này nằm trong <a class=\"xref\" href=\"../chapter08/tar.html#contents-tar\" title=\"8.71.2.&nbsp;Contents of Tar\">Mục&nbsp;8.71.2, “Nội dung của Tar.”</a>"
+}

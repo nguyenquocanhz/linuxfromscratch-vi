@@ -1,0 +1,11 @@
+{
+  "Chapter 4. Final Preparations": "Chương 4. Chuẩn bị cuối cùng",
+  "<a id=\"chapter-final-preps\" name=\"chapter-final-preps\"></a>4. Final Preparations": "<a id=\"chapter-final-preps\" name=\"chapter-final-preps\"></a>4. Chuẩn bị cuối cùng",
+  "Table of Contents": "Mục lục",
+  "<a href=\"introduction.html\">Introduction</a>": "<a href=\"introduction.html\">Giới thiệu</a>",
+  "<a href=\"creatingminlayout.html\">Creating a Limited Directory Layout in the LFS Filesystem</a>": "<a href=\"creatingminlayout.html\">Tạo bố cục thư mục tối giản trong hệ thống tệp LFS</a>",
+  "<a href=\"addinguser.html\">Adding the LFS User</a>": "<a href=\"addinguser.html\">Thêm người dùng LFS</a>",
+  "<a href=\"settingenvironment.html\">Setting Up the Environment</a>": "<a href=\"settingenvironment.html\">Thiết lập môi trường</a>",
+  "<a href=\"aboutsbus.html\">About SBUs</a>": "<a href=\"aboutsbus.html\">Về SBU</a>",
+  "<a href=\"abouttestsuites.html\">About the Test Suites</a>": "<a href=\"abouttestsuites.html\">Về các bộ kiểm thử</a>"
+}

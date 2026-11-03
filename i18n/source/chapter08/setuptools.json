@@ -1,0 +1,15 @@
+[
+    "8.55. Setuptools-80.9.0",
+    "<a id=\"ch-system-setuptools\" name=\"ch-system-setuptools\"></a>8.55. Setuptools-80.9.0",
+    "Setuptools is a tool used to download, build, install, upgrade, and uninstall Python packages.",
+    "Approximate build time:",
+    "less than 0.1 SBU",
+    "Required disk space:",
+    "25 MB",
+    "8.55.1. Installation of Setuptools",
+    "Build the package:",
+    "Install the package:",
+    "<a id=\"contents-setuptools\" name=\"contents-setuptools\"></a>8.55.2. Contents of Setuptools",
+    "Installed directory:",
+    "/usr/lib/python3.13/site-packages/_distutils_hack, /usr/lib/python3.13/site-packages/pkg_resources, /usr/lib/python3.13/site-packages/setuptools, and /usr/lib/python3.13/site-packages/setuptools-80.9.0.dist-info"
+]

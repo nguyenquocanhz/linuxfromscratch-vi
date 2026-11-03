@@ -1,0 +1,22 @@
+[
+    "8.39. Gperf-3.3",
+    "<a id=\"ch-system-gperf\" name=\"ch-system-gperf\"></a>8.39. Gperf-3.3",
+    "Gperf generates a perfect hash function from a key set.",
+    "Approximate build time:",
+    "0.2 SBU",
+    "Required disk space:",
+    "12 MB",
+    "8.39.1. Installation of Gperf",
+    "Prepare Gperf for compilation:",
+    "Compile the package:",
+    "To test the results, issue:",
+    "Install the package:",
+    "<a id=\"contents-gperf\" name=\"contents-gperf\"></a>8.39.2. Contents of Gperf",
+    "Installed program:",
+    "gperf",
+    "Installed directory:",
+    "/usr/share/doc/gperf-3.3",
+    "Short Descriptions",
+    "<a id=\"gperf\" name=\"gperf\"></a><span class=\"term\"><span class=\"command\"><strong>gperf</strong></span></span>",
+    "Generates a perfect hash from a key set"
+]

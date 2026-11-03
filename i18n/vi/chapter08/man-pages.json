@@ -1,0 +1,21 @@
+{
+  "8.3. Man-pages-6.15": "8.3. Man-pages-6.15",
+  "<a id=\"ch-system-man-pages\" name=\"ch-system-man-pages\"></a>8.3. Man-pages-6.15": "<a id=\"ch-system-man-pages\" name=\"ch-system-man-pages\"></a>8.3. Man-pages-6.15",
+  "The Man-pages package contains over 2,400 man pages.": "Gói Man-pages chứa hơn 2.400 trang man.",
+  "Approximate build time:": "Thời gian dựng ước tính:",
+  "0.1 SBU": "0.1 SBU",
+  "Required disk space:": "Dung lượng đĩa cần:",
+  "52 MB": "52 MB",
+  "8.3.1. Installation of Man-pages": "8.3.1. Cài đặt Man-pages",
+  "Remove two man pages for password hashing functions. <span class=\"application\">Libxcrypt</span> will provide a better version of these man pages:": "Xóa hai trang man của các hàm băm mật khẩu. <span class=\"application\">Libxcrypt</span> sẽ cung cấp phiên bản tốt hơn của các trang man này:",
+  "Install Man-pages by running:": "Cài Man-pages bằng cách chạy:",
+  "<strong>The meaning of the options:</strong>": "<strong>Ý nghĩa của các tùy chọn:</strong>",
+  "This prevents <span class=\"command\"><strong>make</strong></span> from setting any built-in variables. The building system of man-pages does not work well with built-in variables, but currently there is no way to disable them except passing <em class=\"parameter\"><code>-R</code></em> explicitly via the command line.": "Tùy chọn này ngăn <span class=\"command\"><strong>make</strong></span> đặt các biến dựng sẵn. Hệ thống dựng của man-pages không hoạt động tốt với các biến dựng sẵn, nhưng hiện chưa có cách nào tắt chúng ngoài việc truyền <em class=\"parameter\"><code>-R</code></em> tường minh qua dòng lệnh.",
+  "This prevents the building system from emitting many <code class=\"computeroutput\">git: command not found</code> warnings lines.": "Tùy chọn này ngăn hệ thống dựng in ra nhiều dòng cảnh báo <code class=\"computeroutput\">git: command not found</code>.",
+  "<a id=\"contents-manpages\" name=\"contents-manpages\"></a>8.3.2. Contents of Man-pages": "<a id=\"contents-manpages\" name=\"contents-manpages\"></a>8.3.2. Nội dung của Man-pages",
+  "Installed files:": "Tệp được cài:",
+  "various man pages": "nhiều trang man khác nhau",
+  "Short Descriptions": "Mô tả ngắn",
+  "<a id=\"man-pages\" name=\"man-pages\"></a><span class=\"term\"><code class=\"filename\">man pages</code></span>": "<a id=\"man-pages\" name=\"man-pages\"></a><span class=\"term\"><code class=\"filename\">man pages</code></span>",
+  "Describe C programming language functions, important device files, and significant configuration files": "Mô tả các hàm của ngôn ngữ lập trình C, các tệp thiết bị quan trọng và các tệp cấu hình thiết yếu"
+}
